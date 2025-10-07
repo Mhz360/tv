@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Entertainment" http-referrer="https://onezoo.net",Zee Bangla
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/elio__2025_.jpg" group-title="Animation Movies",1. Elio
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Animated/Elio%20(2025)%201080p%20WEBRip.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/moana_2.jpg" group-title="Animation Movies",2. Moana 2 (Hindi + English)
