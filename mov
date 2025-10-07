@@ -6,6 +6,22 @@
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
 
 
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://i.imgur.com/bnzDNCF.png" group-title="Movies|TV",Star Movies Select HD (1080p)
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports|TV",Star Sports 1 Hindi HD (1080p)
+http://116.90.120.149:8000/play/a0bv/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://i.imgur.com/dfLSnsZ.png" group-title="Sports|TV",Star Sports 1 Tamil HD
+https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports|TV",Star Sports 2 Hindi (1080p)
+http://116.90.120.149:8000/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports|TV",Star Sports Select 1 HD (1080p)
+http://116.90.120.149:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports|TV",Star Sports Select 2 HD (1080p)
+http://116.90.120.149:8000/play/a0cm/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/elio__2025_.jpg" group-title="Animation Movies",1. Elio
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Animated/Elio%20(2025)%201080p%20WEBRip.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/moana_2.jpg" group-title="Animation Movies",2. Moana 2 (Hindi + English)
