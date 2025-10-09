@@ -9,6 +9,9 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Islamic | TV",Peace TV Bangla (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies | TV",B4U Movies India (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic Wild HD East (720p)
 https://tvpass.org/live/NationalGeographicWildEast/hd
