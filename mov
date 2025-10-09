@@ -55,7 +55,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vid
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie BANGLA 
 http://alvetv.com/movieBANGLA | TVtv/8080/index.m3u8
-
+#EXTINF:0, group-title="BANGLA | TV",NTV
+https://www.youtube.com/watch?v=DZscNE95W7E
 
 
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://i.imgur.com/bnzDNCF.png" group-title="Movies|TV",Star Movies Select HD (1080p)
