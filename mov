@@ -10,6 +10,10 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic Wild HD East (720p)
+https://tvpass.org/live/NationalGeographicWildEast/hd
+
+
 #EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
