@@ -235,9 +235,10 @@ http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/Kung%20Fu%20Hu
 http://10.16.100.206/ftps3/ftps3d6/Movies/English/A%20Man%20Called%20Otto%20(2022)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20of%20Spies%20(2015)%20Poster.jpg" group-title="English Movies",16. Bridge of Spies (2015)
 http://10.16.100.241/ftps3d3/Movies/Bridge%20of%20Spies%20(2015)%201080p%20BluRay.mkv
-
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar__hindi___english_.jpg" group-title="English Movies",Avatar 1 (Hindi + English) 
+http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Avatar%20(2009)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar_the_way_of_water__hindi___english_.jpg" group-title="English Movies",Avatar 2 (Hindi + English) 
+http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Dual%20Audio/Avatar%20The%20Way%20of%20Water%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
 
 
