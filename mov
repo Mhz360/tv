@@ -147,8 +147,34 @@ http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/Animated/WALL%20E%20(2008)%
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Dual%20Audio/Migration%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minions.jpg" group-title="Animation Movies",26. Minions
 http://10.16.100.206/ftps3/ftps3d4/Movies/Animated/Minions%20(2015)%201080p%20BluRay.mp4
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/raya_and_the_last_dragon___hindi___english_.jpg" group-title="English Movies", Raya and the Last Dragon
+http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Raya%20and%20The%20Last%20Dragon%20(2021)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/brave.jpg" group-title="English Movies", Brave (Hindi + English)
+http://10.16.100.206/ftps3/ftps3d7/Movies/Dual%20Audio/Brave%20(2012)%20(Hindi%20and%20English)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/Zootopai%20%20poster.jpg" group-title="English Movies", Zootopia (2016)
+http://10.16.100.241/ftps3d6/Movie/English/Zootopia%20(2016)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/coco.jpg" group-title="English Movies", Coco
+http://10.16.100.206/ftps3/ftps3d7/Movies/Animated/Coco%20(2017)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ratatouille.jpg" group-title="English Movies", Ratatouille
+http://172.31.31.31/Data/movies/animation/2001-2010/Ratatouille%20(2007)/Ratatouille%202007%20BrRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_incredibles__hindi_english_.jpg" group-title="English Movies", The Incredibles
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/The%20Incredibles%20(2004)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/incredibles_2__hindi___english_.jpg" group-title="English Movies", Incredibles 2
+http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Dual%20Audio/Incredibles%202%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/soul__4k_.jpg" group-title="English Movies", Soul (4K)
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/4K/Animated/Soul%20(2020)%202160p%20UHD%20BluRay%20x264%208bit%20HDR%20TrueHD%207.1%20Atmos.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_the_good_dinosar_poster_2.jpg" group-title="English Movies", The Good Dinosaur (2015)
+http://172.31.31.31/Data/movies/animation/2011-2020/The%20Good%20Dinosaur%20(2015)/The%20Good%20Dinosaur%20(2015).mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/onward.jpg" group-title="English Movies", Onward
+http://10.16.100.241/ftps3d10/Movies/Animated/Onward%20(2020)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_bad_guys__2022___hindi___english_.jpg" group-title="English Movies", The Bad Guys (2022) (Hindi + English)
+http://10.16.100.213/iccftps13/iccftps13sasd3/Movies/Dual%20Audio/The%20Bad%20Guys%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods__2013___hindi___english_.jpg" group-title="English Movies", The Croods (2013) (Hindi + English)
+http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/The%20Croods%20(2013)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age__hindi___english_.jpg" group-title="English Movies", The Croods : 2 A New Age (Hindi + English)
+http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/The%20Croods%20A%20New%20Age%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hotel_transylvania__2012_.jpg" group-title="English Movies", Hotel Transylvania (2012)
+http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Animated/Hotel%20Transylvania%20(2012)%201080p%20BluRay.mp4
 
 
 
@@ -202,7 +228,8 @@ http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%20108
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mulan__hindi___english_.jpg" group-title="English Movies", Mulan
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Dual%20Audio/Mulan%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/seventh_son__hindi___english_.jpg" group-title="English Movies",1. Seventh Son (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/Seventh%20Son%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="English Movies",2. Home Alone (1990)
@@ -239,7 +266,10 @@ http://10.16.100.241/ftps3d3/Movies/Bridge%20of%20Spies%20(2015)%201080p%20BluRa
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Avatar%20(2009)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar_the_way_of_water__hindi___english_.jpg" group-title="English Movies",Avatar 2 (Hindi + English) 
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Dual%20Audio/Avatar%20The%20Way%20of%20Water%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/into_the_storm__hindi___english_.jpg" group-title="English Movies", Into the Storm (Hindi + English)
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/Dual%20Audio/Into%20the%20Storm%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/twisters__2024___hindi___english_.jpg" group-title="English Movies", Twisters (2024) (Hindi + English)
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Twisters%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
 
 
