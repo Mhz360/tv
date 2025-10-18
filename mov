@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Kolkata Bangla TV" http-referrer="https://onezoo.net",Zee Bangla
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Kolkata Bangla ||| TV |||" http-referrer="https://onezoo.net",Zee Bangla
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="NEWS ||| TV",Al Jazeera English
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="NEWS ||| TV |||",Al Jazeera English
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760818242/ei/4p_zaI6pJe-lg8UP86_1sAI/ip/103.134.57.237/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSXgL3eT1OF0qH6iYiB5A1-_MFFYPxEuEvdzahaGMbu-3bO4HqMaZtkN2s1oUH7rhRJbtw/spc/hcYD5QQMVLljO-OWjNPhaSOQhJKfy4EUP7Cxhsxw0nwcZaPiKIUMbEcX6-Vjmww/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcF2MOM3QET_WQ02T5ap6E8ey1sXDTi-pyfThC22kFR8CIDGAiwZsSD9AmODboQjHX_FZAVpFXntZ3zyNes8HJoxb/file/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="ANIMAL PLANET ||| TV",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="ANIMAL ERATH ||| TV |||",Animal Planet
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817052/ei/PJvzaNL4MNzvg8UPofvTkAs/ip/103.134.57.237/id/dEd0IW1PmrY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSUfPt8Ih1aUMbFt_UbsqJconiEHEjvTB9RBnJlodFW9x5KGnfP3q2xRJCpFD-D1-rdM5A/spc/hcYD5Qn64ep0zMgOOM_PEaV20Nmin1owvm2_y2Gkdufwu01QtW1UwM0pYlhBc80/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW3e7DAG3rm6mTY0Kj1KzNEeOvUEw46DuMb336_yjbpICIFKBwkcodhBEBukJZ_xpRAkwgqLoIgc_MNffrs1TcOSI/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="ANIMAL PLANET ||| TV",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="ANIMAL ERATH ||| TV |||",BBC Earth
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760816791/ei/N5rzaL__GMOFg8UPyvyxeA/ip/103.134.57.237/id/YfJ1jX-xF_4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSU2QK1wS84_dntXJb6jAf8FB2zzoqGKLzhoLC5pB1hpWlrA1woQJWSRrXJ5UBq9YHkAxA/spc/hcYD5a6wi099MsXOQGAPDoZXTHVf25OI6Whanq-IG3d6yT1ZsCP1IfHI9AXAyOo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKDHFt61lmZ5uFY9-bvQGFkTeBUPD_RUx1-d_Z_W4B1IAiEAjkVOU-YkpXcZJlFyVcnwwApIQSUfB9b_5v6iYUWP7gQ%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" group-title="ANIMAL PLANET ||| TV",NAT GEO Wild
+#EXTINF:-1 tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" group-title="ANIMAL ERATH ||| TV |||",NAT GEO Wild
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760815306/ei/apTzaN2CAZzc3LUPg4ui2QI/ip/103.134.57.237/id/THooYCltViI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/hightc/yes/siu/1/bui/ATw7iSUubKvfKvnn7u0JRf8TInkNqSBRlpQpRGVG9vI2kpdqrp6nO9l0qEsh7-sqfYKUtamR-A/spc/hcYD5fQqt53yaw9qWbXbXKg7_oHQlzNSC2Mn5VH8vDlyu3xane-49oqQyMMqaGg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDvJ0ZCI9V8Lxwgt8iRnEvK4xmq0p3sQVyBjdS3pToA8CIBuNAXtrwmMpPl2egU2nxm0kEvrEj_ubHhUr8LLJE2k6/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/72/29/7772298c-6c42-40a0-e227-b148061a74c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x600wa.png" group-title="ANIMAL PLANET ||| TV",Discovery Relaxation
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/72/29/7772298c-6c42-40a0-e227-b148061a74c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x600wa.png" group-title="ANIMAL ERATH ||| TV |||",Discovery Relaxation
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817416/ei/qJzzaPbrDo2c4t4P193JuAs/ip/103.134.57.237/id/H3JYmEYC1pk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSX0QTyE78sVyojU5ktyNtlHjTNKf_KOzuVUzifhJyf-Fd5zBNbCqWa1ricoyswxonraMg/spc/hcYD5TIZrxLVd1B_s6gThnG4-VklHguOZjkbJZ_JIIYr004rBW7hN2-8cGqpBJM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIMOJgMEDMGgiGVyVgNoVQcFeBvsS5HYdOmogWSTw7tPAiEA-nZoQ02V1fibPxrS1B5yfrm6BiW0T-ULwXPS9bAvF2g%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.scdn.co/image/ab67616d0000b27304858938e43d79222554b48e" group-title="ANIMAL PLANET ||| TV",Wildlife & Nature Documentaries
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.scdn.co/image/ab67616d0000b27304858938e43d79222554b48e" group-title="ANIMAL ERATH ||| TV |||",Wildlife & Nature Documentaries
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817681/ei/sZ3zaKedFdON77APsc7ggAU/ip/103.134.57.237/id/daqB3i9WYIY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/hightc/yes/ss/1/ssa/1/siu/1/bui/ATw7iSVWdv4QdaXIgxny8dizOiLzawNzk-JVUKePUfsvVLgVclVIn5tO1P7PCxzmPflGLlG3Dw/spc/hcYD5fgjJM3aUev0FCMcbs4skR338MJgD2HA1wagWRg-DIT0HVTY5GTrBEPhrYw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Chightc%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAONXqtzU2tFrgpVVzqmLGkjaXpQ_f2mqlcoMhiuVx8sIAiBNjCd54rhoXOsIYlPpXsI-ujytxsTZZWWENwebQv0gVg%3D%3D/file/index.m3u8
 
 
@@ -31,175 +31,175 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817681/ei/s
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="ICC | TV",Tsports
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="FTP ||| TV |||",Tsports
 http://10.16.100.213:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="ICC | TV",LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="FTP ||| TV |||",LIVE
 http://100.100.100.100:3255/TSportsHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="ICC | TV",Tsports 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="FTP ||| TV |||",Tsports 2
 http://103.23.206.189/tsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/gazi.png" group-title="ICC | TV",GTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/gazi.png" group-title="FTP ||| TV |||",GTV
 http://103.23.206.189/gtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/maasranga.jpg" group-title="ICC | TV",Maasranga TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/maasranga.jpg" group-title="FTP ||| TV |||",Maasranga TV
 http://103.23.206.189/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Durantotv.png" group-title="ICC | TV",Duronto TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Durantotv.png" group-title="FTP ||| TV |||",Duronto TV
 http://103.23.206.189/durontotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/nagroiktv.png" group-title="ICC | TV",Nagorik TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/nagroiktv.png" group-title="FTP ||| TV |||",Nagorik TV
 http://103.23.206.189/nagoriktv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="ICC | TV",Peace TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="FTP ||| TV |||",Peace TV
 http://103.23.206.189/peacetv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="ICC | TV",Peace TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="FTP ||| TV |||",Peace TV
 http://103.23.206.189/peacetv/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Islamic | TV",Peace TV Bangla (1080p)
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Islamic ||| TV |||",Peace TV Bangla (1080p)
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies | TV",B4U Movies India (1080p)
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies ||| TV |||",B4U Movies India (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in@SD" tvg-logo="https://i.imgur.com/VYh3V8E.png" group-title="Movies | TV" http-referrer="https://onezoo.net",&pictures (1080p)
+#EXTINF:-1 tvg-id="Andpictures.in@SD" tvg-logo="https://i.imgur.com/VYh3V8E.png" group-title="Movies ||| TV |||" http-referrer="https://onezoo.net",&pictures (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 
 
 
 
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN BANGLA | TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN BANGLA ||| TV |||
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Bangla Vision
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/deepto_television.jpg",Deepto TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/deepto_television.jpg",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg",Maasranga Tv
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
-https://mytvBANGLA | TV.com/0.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
+https://mytvBANGLA ||| TV |||.com/0.m3u8
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="BANGLA | TV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie BANGLA 
-http://alvetv.com/movieBANGLA | TVtv/8080/index.m3u8
+#EXTINF:-1 group-title="BANGLA ||| TV |||" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie BANGLA 
+http://alvetv.com/movieBANGLA ||| TV |||tv/8080/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports|TV",Star Sports 1 Hindi HD (1080p)
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports ||| TV |||",Star Sports 1 Hindi HD (1080p)
 http://116.90.120.149:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://i.imgur.com/dfLSnsZ.png" group-title="Sports|TV",Star Sports 1 Tamil HD
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://i.imgur.com/dfLSnsZ.png" group-title="Sports ||| TV |||",Star Sports 1 Tamil HD
 https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports|TV",Star Sports 2 Hindi (1080p)
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports ||| TV |||",Star Sports 2 Hindi (1080p)
 http://116.90.120.149:8000/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports|TV",Star Sports Select 1 HD (1080p)
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="Sports ||| TV |||",Star Sports Select 1 HD (1080p)
 http://116.90.120.149:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports|TV",Star Sports Select 2 HD (1080p)
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports ||| TV |||",Star Sports Select 2 HD (1080p)
 http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/elio__2025_.jpg" group-title="▶ Animation Movies",1. Elio
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/elio__2025_.jpg" group-title="Animation Movies", Elio
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Animated/Elio%20(2025)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/moana_2.jpg" group-title="▶ Animation Movies",2. Moana 2 (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/moana_2.jpg" group-title="Animation Movies", Moana 2 (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Moana%202%20(2024)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/how_to_train_your_dragon__2025___hindi___english_.jpg" group-title="▶ Animation Movies",4. How to Train Your Dragon (2025) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/how_to_train_your_dragon__2025___hindi___english_.jpg" group-title="Animation Movies", How to Train Your Dragon (2025) (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/How%20to%20Train%20Your%20Dragon%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mufasa_the_lion_king__hindi___english_.jpg" group-title="▶ Animation Movies",4. Mufasa The Lion King (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mufasa_the_lion_king__hindi___english_.jpg" group-title="Animation Movies", Mufasa The Lion King (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd3/Movies/Dual%20Audio/Mufasa%20The%20Lion%20King%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/inside_out_2.jpg" group-title="▶ Animation Movies",5. Inside Out 2 (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/inside_out_2.jpg" group-title="Animation Movies", Inside Out 2 (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Inside%20Out%202%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/encanto.jpg" group-title="▶ Animation Movies",6. Encanto
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/encanto.jpg" group-title="Animation Movies", Encanto
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Animated/Encanto%20(2021)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/luca.jpeg" group-title="▶ Animation Movies",7. Luca
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/luca.jpeg" group-title="Animation Movies", Luca
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Luca%20(2021)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minuscule_valley_of_the_lost_ants__minuscule_la_vallee_des_fourmis_perdues_.jpg" group-title="▶ Animation Movies",8. Minuscule Valley of the Lost Ants
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minuscule_valley_of_the_lost_ants__minuscule_la_vallee_des_fourmis_perdues_.jpg" group-title="Animation Movies", Minuscule Valley of the Lost Ants
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Minuscule%20Valley%20of%20the%20Lost%20Ants%20(Minuscule%20La%20vallee%20des%20fourmis%20perdues)%20(2013)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda__2008___4k_.jpg" group-title="▶ Animation Movies",9. Kung Fu Panda 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda__2008___4k_.jpg" group-title="Animation Movies", Kung Fu Panda 1
 http://10.16.100.250/ftps10d2/Movies/Animated/Kung%20Fu%20Panda%20(2008)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_2__dual_audio_.jpg" group-title="▶ Animation Movies",10. Kung Fu Panda 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_2__dual_audio_.jpg" group-title="Animation Movies", Kung Fu Panda 2
 http://10.16.100.206/ftps3/ftps3d8/Movies/Exclusive%20Full%20HD/English/Kung%20Fu%20Panda%202%20(2011)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_3__dual_audio_.jpg" group-title="▶ Animation Movies",11. Kung Fu Panda 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_3__dual_audio_.jpg" group-title="Animation Movies", Kung Fu Panda 3
 http://10.16.100.250/ftps10d1/Movies/Animation/Kung%20Fu%20Panda%203%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_4.jpg" group-title="▶ Animation Movies",11. Kung Fu Panda 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_4.jpg" group-title="Animation Movies", Kung Fu Panda 4
 http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/Animated/Kung%20Fu%20Panda%204%20(2024)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20(2002).jpg" group-title="▶ Animation Movies",12. Ice Age 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20(2002).jpg" group-title="Animation Movies", Ice Age 1
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/Ice%20Age%20(2002).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20The%20Meltdown%20(2006).jpg" group-title="▶ Animation Movies",13. Ice Age 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20The%20Meltdown%20(2006).jpg" group-title="Animation Movies", Ice Age 2
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/Ice%20Age%20The%20Meltdown%20(2006).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20Dawn%20Of%20The%20Dinosaurs%20(2009).jpg" group-title="▶ Animation Movies",14. Ice Age 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20Dawn%20Of%20The%20Dinosaurs%20(2009).jpg" group-title="Animation Movies", Ice Age 3
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/Ice%20Age%20Dawn%20Of%20The%20Dinosaurs%20(2009).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20%20Continental%20Drift%20(2012).jpg" group-title="▶ Animation Movies",15. Ice Age 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20%20Continental%20Drift%20(2012).jpg" group-title="Animation Movies", Ice Age 4
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Ice%20Age%204%20Continental%20Drift%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ice_age__collision_course.jpg" group-title="▶ Animation Movies",16. Ice Age 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ice_age__collision_course.jpg" group-title="Animation Movies", Ice Age 5
 http://10.16.100.230/ftps1d2/Movies/Animation/Ice%20Age%20Collision%20Course%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild_robot__hindi___english_.jpg" group-title="▶ Animation Movies",17. The Wild Robot
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild_robot__hindi___english_.jpg" group-title="Animation Movies", The Wild Robot
 http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Dual%20Audio/The%20Wild%20Robot%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild__2006_.jpg" group-title="▶ Animation Movies",18. The Wild
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild__2006_.jpg" group-title="Animation Movies", The Wild
 http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/Animated/The%20Wild%20(2006)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rango__hindi___english_.jpg" group-title="▶ Animation Movies",19. Rango
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rango__hindi___english_.jpg" group-title="Animation Movies", Rango
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Rango%20(2011)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Peanuts%20Movie%205.jpg" group-title="▶ Animation Movies",20. The Peanuts Movie
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Peanuts%20Movie%205.jpg" group-title="Animation Movies", The Peanuts Movie
 http://10.16.100.246/ftps4d3/Movie/English/The%20Peanuts%20Movie%20(2015)%20720p%20WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/spider_man__into_the_spider_verse__hindi___english_.png" group-title="▶ Animation Movies",21. Spider-Man Into the Spider Verse
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/spider_man__into_the_spider_verse__hindi___english_.png" group-title="Animation Movies", Spider-Man Into the Spider Verse
 http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/Spider%20Man%20Into%20the%20Spider%20Verse%20(2018)%20720p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar.jpg" group-title="▶ Animation Movies",22. Madagascar 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar.jpg" group-title="Animation Movies", Madagascar 1
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Animated/Madagascar%20(2005)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar_3__europes_most_wanted.jpg" group-title="▶ Animation Movies",23. Madagascar 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar_3__europes_most_wanted.jpg" group-title="Animation Movies", Madagascar 3
 http://10.16.100.206/ftps3/ftps3d8/Movies/Animated/Madagascar%203%20Europes%20Most%20Wanted%20(2012)%201080p%20BrRip.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/wall_e.jpg" group-title="▶ Animation Movies",24. WALL E
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/wall_e.jpg" group-title="Animation Movies", WALL E
 http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/Animated/WALL%20E%20(2008)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/migration__hindi___english_.jpg" group-title="▶ Animation Movies",25. Migration (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/migration__hindi___english_.jpg" group-title="Animation Movies", Migration (Hindi + English)
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Dual%20Audio/Migration%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minions.jpg" group-title="▶ Animation Movies",26. Minions
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minions.jpg" group-title="Animation Movies", Minions
 http://10.16.100.206/ftps3/ftps3d4/Movies/Animated/Minions%20(2015)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/raya_and_the_last_dragon___hindi___english_.jpg" group-title="▶ Animation Movies", Raya and the Last Dragon
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/raya_and_the_last_dragon___hindi___english_.jpg" group-title="Animation Movies", Raya and the Last Dragon
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Raya%20and%20The%20Last%20Dragon%20(2021)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/brave.jpg" group-title="▶ Animation Movies", Brave (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/brave.jpg" group-title="Animation Movies", Brave (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d7/Movies/Dual%20Audio/Brave%20(2012)%20(Hindi%20and%20English)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/Zootopai%20%20poster.jpg" group-title="▶ Animation Movies", Zootopia (2016)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/Zootopai%20%20poster.jpg" group-title="Animation Movies", Zootopia (2016)
 http://10.16.100.241/ftps3d6/Movie/English/Zootopia%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/coco.jpg" group-title="▶ Animation Movies", Coco
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/coco.jpg" group-title="Animation Movies", Coco
 http://10.16.100.206/ftps3/ftps3d7/Movies/Animated/Coco%20(2017)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ratatouille.jpg" group-title="▶ Animation Movies", Ratatouille
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ratatouille.jpg" group-title="Animation Movies", Ratatouille
 http://172.31.31.31/Data/movies/animation/2001-2010/Ratatouille%20(2007)/Ratatouille%202007%20BrRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_incredibles__hindi_english_.jpg" group-title="▶ Animation Movies", The Incredibles
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_incredibles__hindi_english_.jpg" group-title="Animation Movies", The Incredibles
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/The%20Incredibles%20(2004)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/incredibles_2__hindi___english_.jpg" group-title="▶ Animation Movies", Incredibles 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/incredibles_2__hindi___english_.jpg" group-title="Animation Movies", Incredibles 2
 http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Dual%20Audio/Incredibles%202%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/soul__4k_.jpg" group-title="▶ Animation Movies", Soul (4K)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/soul__4k_.jpg" group-title="Animation Movies", Soul (4K)
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/4K/Animated/Soul%20(2020)%202160p%20UHD%20BluRay%20x264%208bit%20HDR%20TrueHD%207.1%20Atmos.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_the_good_dinosar_poster_2.jpg" group-title="▶ Animation Movies", The Good Dinosaur (2015)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_the_good_dinosar_poster_2.jpg" group-title="Animation Movies", The Good Dinosaur (2015)
 http://172.31.31.31/Data/movies/animation/2011-2020/The%20Good%20Dinosaur%20(2015)/The%20Good%20Dinosaur%20(2015).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/onward.jpg" group-title="▶ Animation Movies", Onward
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/onward.jpg" group-title="Animation Movies", Onward
 http://10.16.100.241/ftps3d10/Movies/Animated/Onward%20(2020)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_bad_guys__2022___hindi___english_.jpg" group-title="▶ Animation Movies", The Bad Guys (2022) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_bad_guys__2022___hindi___english_.jpg" group-title="Animation Movies", The Bad Guys (2022) (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd3/Movies/Dual%20Audio/The%20Bad%20Guys%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods__2013___hindi___english_.jpg" group-title="▶ Animation Movies", The Croods (2013) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods__2013___hindi___english_.jpg" group-title="Animation Movies", The Croods (2013) (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/The%20Croods%20(2013)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age__hindi___english_.jpg" group-title="▶ Animation Movies", The Croods : 2 A New Age (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age__hindi___english_.jpg" group-title="Animation Movies", The Croods : 2 A New Age (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/The%20Croods%20A%20New%20Age%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hotel_transylvania__2012_.jpg" group-title="▶ Animation Movies", Hotel Transylvania (2012)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hotel_transylvania__2012_.jpg" group-title="Animation Movies", Hotel Transylvania (2012)
 http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Animated/Hotel%20Transylvania%20(2012)%201080p%20BluRay.mp4
 
 
@@ -209,47 +209,47 @@ http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Animated/Hotel%20Transylvan
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="Hindi Movies",1. Sitaare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="Hindi Movies", Sitaare Zameen Par
 http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20to%20Terabithia%202007.jpg" group-title="Hindi Movies",2. Bridge to Terabithia (2007) Dual Audio
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20to%20Terabithia%202007.jpg" group-title="Hindi Movies", Bridge to Terabithia (2007) Dual Audio
 http://10.16.100.241/ftps3d3/Dual%20Audio/Bridge%20to%20Terabithia%20(2007)/Bridge%20to%20Terabithia%202007.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lucky_baskhar.jpg" group-title="Hindi Movies",3. lucky baskhar
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lucky_baskhar.jpg" group-title="Hindi Movies", lucky baskhar
 http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Lucky%20Baskhar%20(2024)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tumbbad.jpg" group-title="Hindi Movies",4. Tumbbad
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tumbbad.jpg" group-title="Hindi Movies", Tumbbad
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Hindi/Tumbbad%20(2018)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hugo__2011_.jpg" group-title="Hindi Movies",5. Hugo (2011) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hugo__2011_.jpg" group-title="Hindi Movies", Hugo (2011) (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/Hugo%20(2011)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/taare_zameen_par.jpg" group-title="Hindi Movies",6. Taare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/taare_zameen_par.jpg" group-title="Hindi Movies", Taare Zameen Par
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/Taare%20Zameen%20Par%20(2007)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/karate_kid_legends__hindi___english_.jpg" group-title="Hindi Movies",7. Karate Kid Legends (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/karate_kid_legends__hindi___english_.jpg" group-title="Hindi Movies", Karate Kid Legends (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Dual%20Audio/Karate%20Kid%20Legends%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/odum_kuthira_chadum_kuthira.jpg" group-title="Hindi Movies",8. Odum Kuthira Chadum Kuthira
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/odum_kuthira_chadum_kuthira.jpg" group-title="Hindi Movies", Odum Kuthira Chadum Kuthira
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Odum%20Kuthira%20Chadum%20Kuthira%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/bajrangi_bhaijaan.jpg" group-title="Hindi Movies",9. Bajrangi Bhaijaan
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/bajrangi_bhaijaan.jpg" group-title="Hindi Movies", Bajrangi Bhaijaan
 http://10.16.100.206/ftps3/ftps3d4/Movies/Hindi/Bajrangi%20Bhaijaan%20(2015)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laapataa_ladies__lost_ladies_.jpg" group-title="Hindi Movies",10. Laapataa Ladies
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laapataa_ladies__lost_ladies_.jpg" group-title="Hindi Movies", Laapataa Ladies
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Laapataa%20Ladies%20(Lost%20Ladies)%20(2023)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/barfi_.jpg" group-title="Hindi Movies",11. Barfi!
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/barfi_.jpg" group-title="Hindi Movies", Barfi!
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Barfi%20(2012)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/dangal.jpg" group-title="Hindi Movies",12. Dangal
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/dangal.jpg" group-title="Hindi Movies", Dangal
 http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Hindi/Dangal%20(2016)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ghajini.jpg" group-title="Hindi Movies",13. Ghajini
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ghajini.jpg" group-title="Hindi Movies", Ghajini
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/Ghajini%20(2008)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Fanaa%20(2006).jpg" group-title="Hindi Movies",14. Fanaa
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Fanaa%20(2006).jpg" group-title="Hindi Movies", Fanaa
 http://10.16.100.206/ftps3/ftps3d6/Movies/Hindi/Fanaa%20(2006)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rang_de_basanti.jpg" group-title="Hindi Movies",15. Rang De Basanti
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rang_de_basanti.jpg" group-title="Hindi Movies", Rang De Basanti
 http://10.16.100.206/ftps3/ftps3d8/Movies/Hindi/Rang%20De%20Basanti%20(2006)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laal_singh_chaddha__4k_.jpg" group-title="Hindi Movies",16. Laal Singh Chaddha (4K)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laal_singh_chaddha__4k_.jpg" group-title="Hindi Movies", Laal Singh Chaddha (4K)
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/Hindi/Laal%20Singh%20Chaddha%20(2022)%202160p%20WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lagaan__once_upon_a_time_in_india.jpg" group-title="Hindi Movies",17. Lagaan: Once Upon a Time in India
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lagaan__once_upon_a_time_in_india.jpg" group-title="Hindi Movies", Lagaan: Once Upon a Time in India
 http://10.16.100.245/ftps2d1/Movies/Hindi/Lagaan%20(2001)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rab_ne_bana_di_jodi.jpg" group-title="Hindi Movies",18. Rab Ne Bana Di Jodi
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rab_ne_bana_di_jodi.jpg" group-title="Hindi Movies", Rab Ne Bana Di Jodi
 http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Rab%20Ne%20Bana%20Di%20Jodi%20(2008)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="Hindi Movies",19. My Name Is Khan
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="Hindi Movies", My Name Is Khan
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="Hindi Movies",20. My Name Is Khan
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="Hindi Movies", My Name Is Khan
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="Hindi Movies",21. Chennai Express
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="Hindi Movies", Chennai Express
 http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%201080p%20BluRay.mp4
 
 
@@ -257,37 +257,37 @@ http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%20108
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mulan__hindi___english_.jpg" group-title="English Movies", Mulan
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Dual%20Audio/Mulan%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/seventh_son__hindi___english_.jpg" group-title="English Movies",1. Seventh Son (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/seventh_son__hindi___english_.jpg" group-title="English Movies", Seventh Son (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/Seventh%20Son%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="English Movies",2. Home Alone (1990)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="English Movies", Home Alone (1990)
 http://10.16.100.247/ftps5d2/Movies/English/Home%20Alone%20(1990)/Home%20Alone%20(1990)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jurassic_world_rebirth.jpg" group-title="English Movies",3. Jurassic World Rebirth
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jurassic_world_rebirth.jpg" group-title="English Movies", Jurassic World Rebirth
 http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/English/Jurassic%20World%20Rebirth%20(2025)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_2_lost_in_new_york.jpg" group-title="English Movies",4. Home Alone 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_2_lost_in_new_york.jpg" group-title="English Movies", Home Alone 2
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/English/Home%20Alone%202%20Lost%20In%20New%20York%20(1992)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_3.jpg" group-title="English Movies",5. Home Alone 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_3.jpg" group-title="English Movies", Home Alone 3
 http://10.16.100.206/ftps3/ftps3d5/Movies/English/Home%20Alone%203%20(1997)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_1_the_subversion__manyeo___hindi___english_.jpg" group-title="English Movies",6. The Witch Part 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_1_the_subversion__manyeo___hindi___english_.jpg" group-title="English Movies", The Witch Part 1
 http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Witch%20Part%201%20The%20Subversion%20(Manyeo)%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_2_the_other_one.jpg" group-title="English Movies",7. The Witch Part 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_2_the_other_one.jpg" group-title="English Movies", The Witch Part 2
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Korean/The%20Witch%20Part%202%20The%20Other%20One%20(2022)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_call__kol_.jpg" group-title="English Movies",8. The Call
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_call__kol_.jpg" group-title="English Movies", The Call
 http://10.16.100.206/ftps3/ftps3d6/Movies/Korean/The%20Call%20(Kol)%20(2020)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/space_sweepers__seungriho___english___hindi_.jpeg" group-title="English Movies",9. Space Sweepers
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/space_sweepers__seungriho___english___hindi_.jpeg" group-title="English Movies", Space Sweepers
 http://10.16.100.206/ftps3/ftps3d7/Movies/Dual%20Audio/Space%20Sweepers%20(Seungriho)%20(2021)%20(English%20&%20Hindi)%201080p%20WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_foreigner.jpg" group-title="English Movies",10. The Foreigner
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_foreigner.jpg" group-title="English Movies", The Foreigner
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/English/The%20Foreigner%20(2017)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rob_b_hood__bo_bui_gai_wak___hindi___english_.jpg" group-title="English Movies",11. Rob B Hood
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rob_b_hood__bo_bui_gai_wak___hindi___english_.jpg" group-title="English Movies", Rob B Hood
 http://10.16.100.213/iccftps13/iccftps13sasd8/Movies/Dual%20Audio/Rob%20B%20Hood%20(Bo%20bui%20gai%20wak)%20(2006)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/shaolin_soccer__siu_lam_juk_kau___hindi___chinese_.jpg" group-title="English Movies",12. Shaolin Soccer
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/shaolin_soccer__siu_lam_juk_kau___hindi___chinese_.jpg" group-title="English Movies", Shaolin Soccer
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Shaolin%20Soccer%20(Siu%20Lam%20juk%20kau)%20(2001)%20(Hindi%20&%20Chinese)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="English Movies",13. Kung Fu Hustle
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="English Movies", Kung Fu Hustle
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/Kung%20Fu%20Hustle%20(Kung%20fu)%20(2004)%20(Hindi%20&%20English)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="English Movies",14. Kung Fu Hustle
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="English Movies", Kung Fu Hustle
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/Kung%20Fu%20Hustle%20(Kung%20fu)%20(2004)%20(Hindi%20&%20English)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/a_man_called_otto.jpg" group-title="English Movies",15. A Man Called Otto
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/a_man_called_otto.jpg" group-title="English Movies", A Man Called Otto
 http://10.16.100.206/ftps3/ftps3d6/Movies/English/A%20Man%20Called%20Otto%20(2022)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20of%20Spies%20(2015)%20Poster.jpg" group-title="English Movies",16. Bridge of Spies (2015)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20of%20Spies%20(2015)%20Poster.jpg" group-title="English Movies", Bridge of Spies (2015)
 http://10.16.100.241/ftps3d3/Movies/Bridge%20of%20Spies%20(2015)%201080p%20BluRay.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar__hindi___english_.jpg" group-title="English Movies",Avatar 1 (Hindi + English) 
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Avatar%20(2009)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
@@ -301,21 +301,21 @@ http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Twisters%20(2024)
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E01
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E01
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E01.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E02
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E02
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E02.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E03
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E03
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E03.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E04
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E04
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E04.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E05
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E05
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E05.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E06
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E06
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E06.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E07
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E07
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E07.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="the Rings The Rings of Power Season 01 (2022)",the Rings The Rings of Power Season 01 (2022) S01E08
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="The Rings The Rings of Power Season 01 (2022)",The Rings The Rings of Power Season 01 (2022) S01E08
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E08.mp4
 
 
@@ -323,33 +323,33 @@ http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20o
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E01
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E01
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E01.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E02
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E02
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E02.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E03
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E03
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E03.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E04
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E04
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E04.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E05
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E05
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E05.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E06
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E06
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E06.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E07
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E07
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E07.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="the Rings The Rings of Power Season 02 (2024)",the Rings The Rings of Power Season 02 (2024) S02E08
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="The Rings The Rings of Power Season 02 (2024)",The Rings The Rings of Power Season 02 (2024) S02E08
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E08.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_hobbit_an_unexpected_journey__hindi___english_.jpg" group-title="Hobbit",1. Hobbit 1
-http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20Hobbit%20An%20Unexpected%20Journey%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).jpg" group-title="Hobbit",2. Hobbit 2
-http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013)/The%20Hobbit%20The%20Desolation%20of%20Smaug%20(2013).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="Hobbit",3. Hobbit 3
-http://172.31.31.31/Data/movies/hollywood/2020/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.Hobbit.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_Hobbit Movie Series_an_unexpected_journey__hindi___english_.jpg" group-title="Hobbit Movie Series",1. Hobbit Movie Series 1
+http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20Hobbit Movie Series%20An%20Unexpected%20Journey%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013).jpg" group-title="Hobbit Movie Series",2. Hobbit Movie Series 2
+http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013)/The%20Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013).mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Hobbit Movie Series%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="Hobbit Movie Series",3. Hobbit Movie Series 3
+http://172.31.31.31/Data/movies/hollywood/2020/The%20Hobbit Movie Series%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.Hobbit Movie Series.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
 
 
 
