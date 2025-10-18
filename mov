@@ -8,6 +8,8 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="ICC | TV",Tsports
 http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="ICC | TV",LIVE
+http://100.100.100.100:3255/TSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="ICC | TV",Tsports 2
 http://103.23.206.189/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/gazi.png" group-title="ICC | TV",GTV
