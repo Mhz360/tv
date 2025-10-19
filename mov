@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title=" 📺 Kolkata Bangla ||| TV |||  🅻🅸🆅🅴" http-referrer="https://onezoo.net",Zee Bangla
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="📺 𝗜𝗡𝗗𝗜𝗔𝗡 𝗕𝗔𝗡𝗚𝗟𝗔 𝗧𝗩  ○ 🇱 🇮 🇻 🇪 " http-referrer="https://onezoo.net",Zee Bangla
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 https://playyonogames.in/z5/stream.m3u8?id=0-9-zeebangla
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="📺 NEWS ||| TV |||  🅻🅸🆅🅴",Al Jazeera English
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="📺 𝗡𝗘𝗪𝗦 𝗧𝗩  ○ 🇱 🇮 🇻 🇪",Al Jazeera English
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760818242/ei/4p_zaI6pJe-lg8UP86_1sAI/ip/103.134.57.237/id/gCNeDWCI0vo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSXgL3eT1OF0qH6iYiB5A1-_MFFYPxEuEvdzahaGMbu-3bO4HqMaZtkN2s1oUH7rhRJbtw/spc/hcYD5QQMVLljO-OWjNPhaSOQhJKfy4EUP7Cxhsxw0nwcZaPiKIUMbEcX6-Vjmww/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcF2MOM3QET_WQ02T5ap6E8ey1sXDTi-pyfThC22kFR8CIDGAiwZsSD9AmODboQjHX_FZAVpFXntZ3zyNes8HJoxb/file/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="📺 ANIMAL ERATH ||| TV |||  🅻🅸🆅🅴",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="📺 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗢𝗥𝗬 𝗧𝗩  ○ 🇱 🇮 🇻 🇪",Animal Planet
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817052/ei/PJvzaNL4MNzvg8UPofvTkAs/ip/103.134.57.237/id/dEd0IW1PmrY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSUfPt8Ih1aUMbFt_UbsqJconiEHEjvTB9RBnJlodFW9x5KGnfP3q2xRJCpFD-D1-rdM5A/spc/hcYD5Qn64ep0zMgOOM_PEaV20Nmin1owvm2_y2Gkdufwu01QtW1UwM0pYlhBc80/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW3e7DAG3rm6mTY0Kj1KzNEeOvUEw46DuMb336_yjbpICIFKBwkcodhBEBukJZ_xpRAkwgqLoIgc_MNffrs1TcOSI/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="📺 ANIMAL ERATH ||| TV |||  🅻🅸🆅🅴",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-logo="https://bbcearth.ca/wp-content/uploads/2018/09/BBC_EARTH_RGB_GRAD_L.jpg" group-title="📺 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗢𝗥𝗬 𝗧𝗩  ○ 🇱 🇮 🇻 🇪",BBC Earth
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760816791/ei/N5rzaL__GMOFg8UPyvyxeA/ip/103.134.57.237/id/YfJ1jX-xF_4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSU2QK1wS84_dntXJb6jAf8FB2zzoqGKLzhoLC5pB1hpWlrA1woQJWSRrXJ5UBq9YHkAxA/spc/hcYD5a6wi099MsXOQGAPDoZXTHVf25OI6Whanq-IG3d6yT1ZsCP1IfHI9AXAyOo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKDHFt61lmZ5uFY9-bvQGFkTeBUPD_RUx1-d_Z_W4B1IAiEAjkVOU-YkpXcZJlFyVcnwwApIQSUfB9b_5v6iYUWP7gQ%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" group-title="📺 ANIMAL ERATH ||| TV |||  🅻🅸🆅🅴",NAT GEO Wild
+#EXTINF:-1 tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" group-title="📺 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗢𝗥𝗬 𝗧𝗩  ○ 🇱 🇮 🇻 🇪",NAT GEO Wild
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760815306/ei/apTzaN2CAZzc3LUPg4ui2QI/ip/103.134.57.237/id/THooYCltViI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/hightc/yes/siu/1/bui/ATw7iSUubKvfKvnn7u0JRf8TInkNqSBRlpQpRGVG9vI2kpdqrp6nO9l0qEsh7-sqfYKUtamR-A/spc/hcYD5fQqt53yaw9qWbXbXKg7_oHQlzNSC2Mn5VH8vDlyu3xane-49oqQyMMqaGg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDvJ0ZCI9V8Lxwgt8iRnEvK4xmq0p3sQVyBjdS3pToA8CIBuNAXtrwmMpPl2egU2nxm0kEvrEj_ubHhUr8LLJE2k6/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/72/29/7772298c-6c42-40a0-e227-b148061a74c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x600wa.png" group-title="📺 ANIMAL ERATH ||| TV |||  🅻🅸🆅🅴",Discovery Relaxation
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/72/29/7772298c-6c42-40a0-e227-b148061a74c3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x600wa.png" group-title="📺 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗢𝗥𝗬 𝗧𝗩  ○ 🇱 🇮 🇻 🇪",Discovery Relaxation
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817416/ei/qJzzaPbrDo2c4t4P193JuAs/ip/103.134.57.237/id/H3JYmEYC1pk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/hightc/yes/siu/1/bui/ATw7iSX0QTyE78sVyojU5ktyNtlHjTNKf_KOzuVUzifhJyf-Fd5zBNbCqWa1ricoyswxonraMg/spc/hcYD5TIZrxLVd1B_s6gThnG4-VklHguOZjkbJZ_JIIYr004rBW7hN2-8cGqpBJM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Chightc%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIMOJgMEDMGgiGVyVgNoVQcFeBvsS5HYdOmogWSTw7tPAiEA-nZoQ02V1fibPxrS1B5yfrm6BiW0T-ULwXPS9bAvF2g%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.scdn.co/image/ab67616d0000b27304858938e43d79222554b48e" group-title="📺 ANIMAL ERATH ||| TV |||  🅻🅸🆅🅴",Wildlife & Nature Documentaries
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.scdn.co/image/ab67616d0000b27304858938e43d79222554b48e" group-title="📺 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗢𝗥𝗬 𝗧𝗩  ○ 🇱 🇮 🇻 🇪",Wildlife & Nature Documentaries
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817681/ei/sZ3zaKedFdON77APsc7ggAU/ip/103.134.57.237/id/daqB3i9WYIY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/gcr/bd/hightc/yes/ss/1/ssa/1/siu/1/bui/ATw7iSVWdv4QdaXIgxny8dizOiLzawNzk-JVUKePUfsvVLgVclVIn5tO1P7PCxzmPflGLlG3Dw/spc/hcYD5fgjJM3aUev0FCMcbs4skR338MJgD2HA1wagWRg-DIT0HVTY5GTrBEPhrYw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Chightc%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAONXqtzU2tFrgpVVzqmLGkjaXpQ_f2mqlcoMhiuVx8sIAiBNjCd54rhoXOsIYlPpXsI-ujytxsTZZWWENwebQv0gVg%3D%3D/file/index.m3u8
 
 
@@ -31,89 +31,89 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760817681/ei/s
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",Tsports
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",Tsports
 http://10.16.100.213:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",LIVE
 http://100.100.100.100:3255/TSportsHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",Tsports 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",Tsports 2
 http://103.23.206.189/tsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/gazi.png" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",GTV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/gazi.png" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",GTV
 http://103.23.206.189/gtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/maasranga.jpg" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",Maasranga TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/maasranga.jpg" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",Maasranga TV
 http://103.23.206.189/maasrangatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Durantotv.png" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",Duronto TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Durantotv.png" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",Duronto TV
 http://103.23.206.189/durontotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/nagroiktv.png" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",Nagorik TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/nagroiktv.png" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",Nagorik TV
 http://103.23.206.189/nagoriktv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="📺 FTP ||| TV |||  🅻🅸🆅🅴",Peace TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="📺 𝗙𝗧𝗣 𝗧𝗩 𝗖𝗛𝗔𝗡𝗡𝗘𝗟  ○ 🇱 🇮 🇻 🇪",Peace TV
 http://103.23.206.189/peacetv/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="📺 Islamic ||| TV |||  🅻🅸🆅🅴", Peace TV Bangla 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="📺 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗧𝗩  ○ 🇱 🇮 🇻 🇪", Peace TV Bangla 2
 http://103.23.206.189/peacetv/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="📺 Islamic ||| TV |||  🅻🅸🆅🅴",Peace TV Bangla 2
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="📺 𝗜𝗦𝗟𝗔𝗠𝗜𝗖 𝗧𝗩  ○ 🇱 🇮 🇻 🇪",Peace TV Bangla 2
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="📺 Movies ||| TV |||   🅻🅸🆅🅴",B4U Movies India (1080p)
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="📺 𝗠𝗢𝗩𝗜𝗘𝗦 𝗧𝗩 ○ 🇱 🇮 🇻 🇪",B4U Movies India (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in@SD" tvg-logo="https://i.imgur.com/VYh3V8E.png" group-title="📺 Movies ||| TV |||   🅻🅸🆅🅴" http-referrer="https://onezoo.net",&pictures (1080p)
+#EXTINF:-1 tvg-id="Andpictures.in@SD" tvg-logo="https://i.imgur.com/VYh3V8E.png" group-title="📺 𝗠𝗢𝗩𝗜𝗘𝗦 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" http-referrer="https://onezoo.net",&pictures (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 
 
 
 
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Bangla Vision
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/deepto_television.jpg",Deepto TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/deepto_television.jpg",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg",Maasranga Tv
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
-https://mytv📺 Bangla ||| TV |||   🅻🅸🆅🅴.com/0.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
+https://mytv📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪.com/0.m3u8
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="📺 Bangla ||| TV |||   🅻🅸🆅🅴" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie BANGLA 
-http://alvetv.com/movie📺 Bangla ||| TV |||   🅻🅸🆅🅴tv/8080/index.m3u8
+#EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie BANGLA 
+http://alvetv.com/movie📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🇱 🇮 🇻 🇪tv/8080/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="📺 Sports ||| TV |||   🅻🅸🆅🅴",Star Sports 1 Hindi HD (1080p)
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="📺 𝗦𝗣𝗢𝗥𝗧𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ○ 🇱 🇮 🇻 🇪   🅻🅸🆅🅴",Star Sports 1 Hindi HD (1080p)
 http://116.90.120.149:8000/play/a0bv/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://i.imgur.com/dfLSnsZ.png" group-title="📺 Sports ||| TV |||   🅻🅸🆅🅴",Star Sports 1 Tamil HD
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" tvg-logo="https://i.imgur.com/dfLSnsZ.png" group-title="📺 𝗦𝗣𝗢𝗥𝗧𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ○ 🇱 🇮 🇻 🇪   🅻🅸🆅🅴",Star Sports 1 Tamil HD
 https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="📺 Sports ||| TV |||   🅻🅸🆅🅴",Star Sports 2 Hindi (1080p)
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="📺 𝗦𝗣𝗢𝗥𝗧𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ○ 🇱 🇮 🇻 🇪   🅻🅸🆅🅴",Star Sports 2 Hindi (1080p)
 http://116.90.120.149:8000/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="📺 Sports ||| TV |||   🅻🅸🆅🅴",Star Sports Select 1 HD (1080p)
+#EXTINF:-1 tvg-id="StarSportsSelect1.in@HD" tvg-logo="https://i.imgur.com/Mh9tKPx.png" group-title="📺 𝗦𝗣𝗢𝗥𝗧𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ○ 🇱 🇮 🇻 🇪   🅻🅸🆅🅴",Star Sports Select 1 HD (1080p)
 http://116.90.120.149:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="📺 Sports ||| TV |||   🅻🅸🆅🅴",Star Sports Select 2 HD (1080p)
+#EXTINF:-1 tvg-id="StarSportsSelect2.in@HD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="📺 𝗦𝗣𝗢𝗥𝗧𝗦 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ○ 🇱 🇮 🇻 🇪   🅻🅸🆅🅴",Star Sports Select 2 HD (1080p)
 http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 
