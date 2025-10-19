@@ -79,7 +79,10 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="BTVChattogram.bd@SD" tvg-logo="https://i.imgur.com/hvpyuek.png" group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🅻🅸🆅🅴",BTV Chattogram (1080p)
+https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+#EXTINF:-1 tvg-id="BTVNational.bd@SD" tvg-logo="https://i.imgur.com/5OE2FDt.png" group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🅻🅸🆅🅴",BTV National (1080p)
+https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u
 #EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🅻🅸🆅🅴" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="📺 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗧𝗩 ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
