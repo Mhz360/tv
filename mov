@@ -125,6 +125,12 @@ http://103.23.206.189/tsports/index.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ne_zha__nezha_mo_tong_jiang_shi_.jpg" group-title="☢️ Animation Movies", Ne Zha (ENG + Chinese)
+http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Anime/Ne%20Zha%20(Nezha%20Mo%20tong%20jiang%20shi)%20(2019)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ne_zha_2__nezha_mo_tong_nao_hai___hindi___chinese_.jpg" group-title="☢️ Animation Movies", Ne Zha 2 (Nezha Mo tong nao hai) (Hindi + Chinese)
+http://10.16.100.213/iccftps13/iccftps13sasd4/Movies/Dual%20Audio/Ne%20Zha%20II%20(Nezha%20Mo%20tong%20nao%20hai)%20(2025)%20(Hindi%20&%20Chinese)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/elio__2025_.jpg" group-title="☢️ Animation Movies", Elio
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Animated/Elio%20(2025)%201080p%20WEBRip.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/moana_2.jpg" group-title="☢️ Animation Movies", Moana 2 (Hindi + English)
@@ -207,7 +213,16 @@ http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/The%20Croods%20(2013)%20(
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/The%20Croods%20A%20New%20Age%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hotel_transylvania__2012_.jpg" group-title="☢️ Animation Movies", Hotel Transylvania (2012)
 http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Animated/Hotel%20Transylvania%20(2012)%201080p%20BluRay.mp4
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/a_bugs_life__4k_.jpg" group-title="☢️ Animation Movies", A Bugs Life (4K)
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/4K/Animated/A%20Bugs%20Life%20(1998)%202160p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me__3d_.jpg" group-title="☢️ Animation Movies", Despicable Me (3D)
+http://10.16.100.241/ftps3d8/Movies/3D/Despicable%20Me%20(2010)%203D%20HSBS%201080p%20BrRip.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_2.jpg" group-title="☢️ Animation Movies", Despicable Me 2
+http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Animated/Despicable%20Me%202%20(2013)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_3.jpg" group-title="☢️ Animation Movies", Despicable Me 3
+http://172.31.31.31/Data/movies/animation/2011-2020/Despicable%20Me%203%20(2017)/Despicable%20Me%203%20(2017).mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_4.jpg" group-title="☢️ Animation Movies", Despicable Me 4
+http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Animated/Despicable%20Me%204%20(2024)%201080p%20WEBRip.mp4
 
 
 
@@ -261,6 +276,9 @@ http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%20108
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/shang_chi_and_the_legend_of_the_ten_rings__hindi___english_.jpg" group-title="☢️ English Movies", Shang Chi and the Legend of the Ten Rings (Hindi + English)
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Shang%20Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mulan__hindi___english_.jpg" group-title="☢️ English Movies", Mulan
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Dual%20Audio/Mulan%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/seventh_son__hindi___english_.jpg" group-title="☢️ English Movies", Seventh Son (Hindi + English)
