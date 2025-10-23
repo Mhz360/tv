@@ -145,103 +145,117 @@ http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/The%20Conjurin
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/pirates_of_the_caribbean_the_curse_of_the_black_pearl__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Pirates of the Caribbean Collection", 1. Pirates of the Caribbean The Curse of the Black Pearl (Hindi + English)
+http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/Pirates%20of%20the%20Caribbean%20The%20Curse%20of%20the%20Black%20Pearl%20(2003)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/pirates_of_the_caribbean__dead_man_s_chest__dual_audio_.jpg" group-title="🎞️ English Movies ▶ Pirates of the Caribbean Collection", 2. Pirates of the Caribbean - Dead Man's Chest (2006)
+http://172.31.31.31/Data/movies/hollywood/best/Pirates%20of%20the%20Caribbean%20-%20Dead%20Man's%20Chest%20(2006)/Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.1080p.BrRip.x264.Deceit.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/pirates_of_the_caribbean__at_world_s_end__dual_audio_.jpg" group-title="🎞️ English Movies ▶ Pirates of the Caribbean Collection", 3. Pirates of the Caribbean: At Worlds End (Dual Audio)
+http://10.16.100.241/ftps3d5/Movies/Dual%20Audio/Pirates%20Of%20The%20Caribbean%20At%20Worlds%20End%20(2007)%20Hindi%20Dubbed%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/pirates_of_the_caribbean__on_stranger_tides.jpg" group-title="🎞️ English Movies ▶ Pirates of the Caribbean Collection", 4. Pirates of the Caribbean On Stranger Tides (Hindi Dubbed)
+http://10.16.100.206/ftps3/ftps3d8/Movies/Dual%20Audio/Pirates%20of%20the%20Caribbean%20On%20Stranger%20Tides%20(2011)%20(Hindi%20Dubbed)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/pirates_of_the_caribbean_dead_men_tell_no_tales__hindi_english_.jpg" group-title="🎞️ English Movies ▶ Pirates of the Caribbean Collection", 5. Pirates of the Caribbean Dead Men Tell No Tales (Hindi+English)
+http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Dual%20Audio/Pirates%20of%20the%20Caribbean%20Dead%20Men%20Tell%20No%20Tales%20(2017)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ne_zha__nezha_mo_tong_jiang_shi_.jpg" group-title="☢️ Animation Movies", Ne Zha (ENG + Chinese)
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ne_zha__nezha_mo_tong_jiang_shi_.jpg" group-title="🎞️ Animation Movies", Ne Zha (ENG + Chinese)
 http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Anime/Ne%20Zha%20(Nezha%20Mo%20tong%20jiang%20shi)%20(2019)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ne_zha_2__nezha_mo_tong_nao_hai___hindi___chinese_.jpg" group-title="☢️ Animation Movies", Ne Zha 2 (Nezha Mo tong nao hai) (Hindi + Chinese)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ne_zha_2__nezha_mo_tong_nao_hai___hindi___chinese_.jpg" group-title="🎞️ Animation Movies", Ne Zha 2 (Nezha Mo tong nao hai) (Hindi + Chinese)
 http://10.16.100.213/iccftps13/iccftps13sasd4/Movies/Dual%20Audio/Ne%20Zha%20II%20(Nezha%20Mo%20tong%20nao%20hai)%20(2025)%20(Hindi%20&%20Chinese)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/elio__2025_.jpg" group-title="☢️ Animation Movies", Elio
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/elio__2025_.jpg" group-title="🎞️ Animation Movies", Elio
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Animated/Elio%20(2025)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/moana_2.jpg" group-title="☢️ Animation Movies", Moana 2 (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/moana_2.jpg" group-title="🎞️ Animation Movies", Moana 2 (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Moana%202%20(2024)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/how_to_train_your_dragon__2025___hindi___english_.jpg" group-title="☢️ Animation Movies", How to Train Your Dragon (2025) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/how_to_train_your_dragon__2025___hindi___english_.jpg" group-title="🎞️ Animation Movies", How to Train Your Dragon (2025) (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/How%20to%20Train%20Your%20Dragon%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mufasa_the_lion_king__hindi___english_.jpg" group-title="☢️ Animation Movies", Mufasa The Lion King (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mufasa_the_lion_king__hindi___english_.jpg" group-title="🎞️ Animation Movies", Mufasa The Lion King (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd3/Movies/Dual%20Audio/Mufasa%20The%20Lion%20King%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/inside_out_2.jpg" group-title="☢️ Animation Movies", Inside Out 2 (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/inside_out_2.jpg" group-title="🎞️ Animation Movies", Inside Out 2 (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Inside%20Out%202%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/encanto.jpg" group-title="☢️ Animation Movies", Encanto
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/encanto.jpg" group-title="🎞️ Animation Movies", Encanto
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Animated/Encanto%20(2021)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/luca.jpeg" group-title="☢️ Animation Movies", Luca
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/luca.jpeg" group-title="🎞️ Animation Movies", Luca
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Animated/Luca%20(2021)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minuscule_valley_of_the_lost_ants__minuscule_la_vallee_des_fourmis_perdues_.jpg" group-title="☢️ Animation Movies", Minuscule Valley of the Lost Ants
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minuscule_valley_of_the_lost_ants__minuscule_la_vallee_des_fourmis_perdues_.jpg" group-title="🎞️ Animation Movies", Minuscule Valley of the Lost Ants
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Minuscule%20Valley%20of%20the%20Lost%20Ants%20(Minuscule%20La%20vallee%20des%20fourmis%20perdues)%20(2013)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda__2008___4k_.jpg" group-title="☢️ Animation Movies", Kung Fu Panda 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda__2008___4k_.jpg" group-title="🎞️ Animation Movies", Kung Fu Panda 1
 http://10.16.100.250/ftps10d2/Movies/Animated/Kung%20Fu%20Panda%20(2008)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_2__dual_audio_.jpg" group-title="☢️ Animation Movies", Kung Fu Panda 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_2__dual_audio_.jpg" group-title="🎞️ Animation Movies", Kung Fu Panda 2
 http://10.16.100.206/ftps3/ftps3d8/Movies/Exclusive%20Full%20HD/English/Kung%20Fu%20Panda%202%20(2011)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_3__dual_audio_.jpg" group-title="☢️ Animation Movies", Kung Fu Panda 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_3__dual_audio_.jpg" group-title="🎞️ Animation Movies", Kung Fu Panda 3
 http://10.16.100.250/ftps10d1/Movies/Animation/Kung%20Fu%20Panda%203%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_4.jpg" group-title="☢️ Animation Movies", Kung Fu Panda 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_panda_4.jpg" group-title="🎞️ Animation Movies", Kung Fu Panda 4
 http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/Animated/Kung%20Fu%20Panda%204%20(2024)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20(2002).jpg" group-title="☢️ Animation Movies", Ice Age 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20(2002).jpg" group-title="🎞️ Animation Movies", Ice Age 1
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/Ice%20Age%20(2002).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20The%20Meltdown%20(2006).jpg" group-title="☢️ Animation Movies", Ice Age 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20The%20Meltdown%20(2006).jpg" group-title="🎞️ Animation Movies", Ice Age 2
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/Ice%20Age%20The%20Meltdown%20(2006).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20Dawn%20Of%20The%20Dinosaurs%20(2009).jpg" group-title="☢️ Animation Movies", Ice Age 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20Dawn%20Of%20The%20Dinosaurs%20(2009).jpg" group-title="🎞️ Animation Movies", Ice Age 3
 http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/Ice%20Age%20Dawn%20Of%20The%20Dinosaurs%20(2009).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20%20Continental%20Drift%20(2012).jpg" group-title="☢️ Animation Movies", Ice Age 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Ice%20Age%20%20Continental%20Drift%20(2012).jpg" group-title="🎞️ Animation Movies", Ice Age 4
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Ice%20Age%204%20Continental%20Drift%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ice_age__collision_course.jpg" group-title="☢️ Animation Movies", Ice Age 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ice_age__collision_course.jpg" group-title="🎞️ Animation Movies", Ice Age 5
 http://10.16.100.230/ftps1d2/Movies/Animation/Ice%20Age%20Collision%20Course%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild_robot__hindi___english_.jpg" group-title="☢️ Animation Movies", The Wild Robot
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild_robot__hindi___english_.jpg" group-title="🎞️ Animation Movies", The Wild Robot
 http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Dual%20Audio/The%20Wild%20Robot%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild__2006_.jpg" group-title="☢️ Animation Movies", The Wild
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_wild__2006_.jpg" group-title="🎞️ Animation Movies", The Wild
 http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/Animated/The%20Wild%20(2006)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rango__hindi___english_.jpg" group-title="☢️ Animation Movies", Rango
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rango__hindi___english_.jpg" group-title="🎞️ Animation Movies", Rango
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Rango%20(2011)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Peanuts%20Movie%205.jpg" group-title="☢️ Animation Movies", The Peanuts Movie
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20Peanuts%20Movie%205.jpg" group-title="🎞️ Animation Movies", The Peanuts Movie
 http://10.16.100.246/ftps4d3/Movie/English/The%20Peanuts%20Movie%20(2015)%20720p%20WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/spider_man__into_the_spider_verse__hindi___english_.png" group-title="☢️ Animation Movies", Spider-Man Into the Spider Verse
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/spider_man__into_the_spider_verse__hindi___english_.png" group-title="🎞️ Animation Movies", Spider-Man Into the Spider Verse
 http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/Spider%20Man%20Into%20the%20Spider%20Verse%20(2018)%20720p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar.jpg" group-title="☢️ Animation Movies", Madagascar 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar.jpg" group-title="🎞️ Animation Movies", Madagascar 1
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Animated/Madagascar%20(2005)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar_3__europes_most_wanted.jpg" group-title="☢️ Animation Movies", Madagascar 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/madagascar_3__europes_most_wanted.jpg" group-title="🎞️ Animation Movies", Madagascar 3
 http://10.16.100.206/ftps3/ftps3d8/Movies/Animated/Madagascar%203%20Europes%20Most%20Wanted%20(2012)%201080p%20BrRip.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/wall_e.jpg" group-title="☢️ Animation Movies", WALL E
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/wall_e.jpg" group-title="🎞️ Animation Movies", WALL E
 http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/Animated/WALL%20E%20(2008)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/migration__hindi___english_.jpg" group-title="☢️ Animation Movies", Migration (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/migration__hindi___english_.jpg" group-title="🎞️ Animation Movies", Migration (Hindi + English)
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Dual%20Audio/Migration%20(2023)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minions.jpg" group-title="☢️ Animation Movies", Minions
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/minions.jpg" group-title="🎞️ Animation Movies", Minions
 http://10.16.100.206/ftps3/ftps3d4/Movies/Animated/Minions%20(2015)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/raya_and_the_last_dragon___hindi___english_.jpg" group-title="☢️ Animation Movies", Raya and the Last Dragon
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/raya_and_the_last_dragon___hindi___english_.jpg" group-title="🎞️ Animation Movies", Raya and the Last Dragon
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/Raya%20and%20The%20Last%20Dragon%20(2021)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/brave.jpg" group-title="☢️ Animation Movies", Brave (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/brave.jpg" group-title="🎞️ Animation Movies", Brave (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d7/Movies/Dual%20Audio/Brave%20(2012)%20(Hindi%20and%20English)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/Zootopai%20%20poster.jpg" group-title="☢️ Animation Movies", Zootopia (2016)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/Zootopai%20%20poster.jpg" group-title="🎞️ Animation Movies", Zootopia (2016)
 http://10.16.100.241/ftps3d6/Movie/English/Zootopia%20(2016)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/coco.jpg" group-title="☢️ Animation Movies", Coco
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/coco.jpg" group-title="🎞️ Animation Movies", Coco
 http://10.16.100.206/ftps3/ftps3d7/Movies/Animated/Coco%20(2017)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ratatouille.jpg" group-title="☢️ Animation Movies", Ratatouille
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ratatouille.jpg" group-title="🎞️ Animation Movies", Ratatouille
 http://172.31.31.31/Data/movies/animation/2001-2010/Ratatouille%20(2007)/Ratatouille%202007%20BrRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_incredibles__hindi_english_.jpg" group-title="☢️ Animation Movies", The Incredibles
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_incredibles__hindi_english_.jpg" group-title="🎞️ Animation Movies", The Incredibles
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/The%20Incredibles%20(2004)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/incredibles_2__hindi___english_.jpg" group-title="☢️ Animation Movies", Incredibles 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/incredibles_2__hindi___english_.jpg" group-title="🎞️ Animation Movies", Incredibles 2
 http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Dual%20Audio/Incredibles%202%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/soul__4k_.jpg" group-title="☢️ Animation Movies", Soul (4K)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/soul__4k_.jpg" group-title="🎞️ Animation Movies", Soul (4K)
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/4K/Animated/Soul%20(2020)%202160p%20UHD%20BluRay%20x264%208bit%20HDR%20TrueHD%207.1%20Atmos.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_the_good_dinosar_poster_2.jpg" group-title="☢️ Animation Movies", The Good Dinosaur (2015)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_the_good_dinosar_poster_2.jpg" group-title="🎞️ Animation Movies", The Good Dinosaur (2015)
 http://172.31.31.31/Data/movies/animation/2011-2020/The%20Good%20Dinosaur%20(2015)/The%20Good%20Dinosaur%20(2015).mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/onward.jpg" group-title="☢️ Animation Movies", Onward
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/onward.jpg" group-title="🎞️ Animation Movies", Onward
 http://10.16.100.241/ftps3d10/Movies/Animated/Onward%20(2020)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_bad_guys__2022___hindi___english_.jpg" group-title="☢️ Animation Movies", The Bad Guys (2022) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_bad_guys__2022___hindi___english_.jpg" group-title="🎞️ Animation Movies", The Bad Guys (2022) (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd3/Movies/Dual%20Audio/The%20Bad%20Guys%20(2022)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods__2013___hindi___english_.jpg" group-title="☢️ Animation Movies", The Croods (2013) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods__2013___hindi___english_.jpg" group-title="🎞️ Animation Movies", The Croods (2013) (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/The%20Croods%20(2013)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age__hindi___english_.jpg" group-title="☢️ Animation Movies", The Croods : 2 A New Age (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age__hindi___english_.jpg" group-title="🎞️ Animation Movies", The Croods : 2 A New Age (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d5/Movies/Dual%20Audio/The%20Croods%20A%20New%20Age%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hotel_transylvania__2012_.jpg" group-title="☢️ Animation Movies", Hotel Transylvania (2012)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hotel_transylvania__2012_.jpg" group-title="🎞️ Animation Movies", Hotel Transylvania (2012)
 http://10.16.100.214/iccftps14/iccftps14sasd2/Movies/Animated/Hotel%20Transylvania%20(2012)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/a_bugs_life__4k_.jpg" group-title="☢️ Animation Movies", A Bugs Life (4K)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/a_bugs_life__4k_.jpg" group-title="🎞️ Animation Movies", A Bugs Life (4K)
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/4K/Animated/A%20Bugs%20Life%20(1998)%202160p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me__3d_.jpg" group-title="☢️ Animation Movies", Despicable Me (3D)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me__3d_.jpg" group-title="🎞️ Animation Movies", Despicable Me (3D)
 http://10.16.100.241/ftps3d8/Movies/3D/Despicable%20Me%20(2010)%203D%20HSBS%201080p%20BrRip.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_2.jpg" group-title="☢️ Animation Movies", Despicable Me 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_2.jpg" group-title="🎞️ Animation Movies", Despicable Me 2
 http://10.16.100.202/ftps10/iccftps10sasd2/Movies/Animated/Despicable%20Me%202%20(2013)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_3.jpg" group-title="☢️ Animation Movies", Despicable Me 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_3.jpg" group-title="🎞️ Animation Movies", Despicable Me 3
 http://172.31.31.31/Data/movies/animation/2011-2020/Despicable%20Me%203%20(2017)/Despicable%20Me%203%20(2017).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_4.jpg" group-title="☢️ Animation Movies", Despicable Me 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_4.jpg" group-title="🎞️ Animation Movies", Despicable Me 4
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Animated/Despicable%20Me%204%20(2024)%201080p%20WEBRip.mp4
 
 
@@ -250,116 +264,116 @@ http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Animated/Despicable%20Me%204%2
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="☢️ Hindi Movies", Sitaare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="🎞️ Hindi Movies", Sitaare Zameen Par
 http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20to%20Terabithia%202007.jpg" group-title="☢️ Hindi Movies", Bridge to Terabithia (2007) Dual Audio
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20to%20Terabithia%202007.jpg" group-title="🎞️ Hindi Movies", Bridge to Terabithia (2007) Dual Audio
 http://10.16.100.241/ftps3d3/Dual%20Audio/Bridge%20to%20Terabithia%20(2007)/Bridge%20to%20Terabithia%202007.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lucky_baskhar.jpg" group-title="☢️ Hindi Movies", lucky baskhar
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lucky_baskhar.jpg" group-title="🎞️ Hindi Movies", lucky baskhar
 http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/South%20Indian%20(Hindi%20Dubbed)/Lucky%20Baskhar%20(2024)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tumbbad.jpg" group-title="☢️ Hindi Movies", Tumbbad
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tumbbad.jpg" group-title="🎞️ Hindi Movies", Tumbbad
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Hindi/Tumbbad%20(2018)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hugo__2011_.jpg" group-title="☢️ Hindi Movies", Hugo (2011) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hugo__2011_.jpg" group-title="🎞️ Hindi Movies", Hugo (2011) (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/Hugo%20(2011)%20(Hindi%20&%20English)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/taare_zameen_par.jpg" group-title="☢️ Hindi Movies", Taare Zameen Par
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/taare_zameen_par.jpg" group-title="🎞️ Hindi Movies", Taare Zameen Par
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/Taare%20Zameen%20Par%20(2007)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/karate_kid_legends__hindi___english_.jpg" group-title="☢️ Hindi Movies", Karate Kid Legends (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/karate_kid_legends__hindi___english_.jpg" group-title="🎞️ Hindi Movies", Karate Kid Legends (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/Dual%20Audio/Karate%20Kid%20Legends%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/odum_kuthira_chadum_kuthira.jpg" group-title="☢️ Hindi Movies", Odum Kuthira Chadum Kuthira
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/odum_kuthira_chadum_kuthira.jpg" group-title="🎞️ Hindi Movies", Odum Kuthira Chadum Kuthira
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/South%20Indian%20(Hindi%20Dubbed)/Odum%20Kuthira%20Chadum%20Kuthira%20(2025)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/bajrangi_bhaijaan.jpg" group-title="☢️ Hindi Movies", Bajrangi Bhaijaan
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/bajrangi_bhaijaan.jpg" group-title="🎞️ Hindi Movies", Bajrangi Bhaijaan
 http://10.16.100.206/ftps3/ftps3d4/Movies/Hindi/Bajrangi%20Bhaijaan%20(2015)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laapataa_ladies__lost_ladies_.jpg" group-title="☢️ Hindi Movies", Laapataa Ladies
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laapataa_ladies__lost_ladies_.jpg" group-title="🎞️ Hindi Movies", Laapataa Ladies
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Laapataa%20Ladies%20(Lost%20Ladies)%20(2023)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/barfi_.jpg" group-title="☢️ Hindi Movies", Barfi!
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/barfi_.jpg" group-title="🎞️ Hindi Movies", Barfi!
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/Hindi/Barfi%20(2012)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/dangal.jpg" group-title="☢️ Hindi Movies", Dangal
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/dangal.jpg" group-title="🎞️ Hindi Movies", Dangal
 http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Hindi/Dangal%20(2016)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ghajini.jpg" group-title="☢️ Hindi Movies", Ghajini
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ghajini.jpg" group-title="🎞️ Hindi Movies", Ghajini
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/Ghajini%20(2008)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Fanaa%20(2006).jpg" group-title="☢️ Hindi Movies", Fanaa
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Fanaa%20(2006).jpg" group-title="🎞️ Hindi Movies", Fanaa
 http://10.16.100.206/ftps3/ftps3d6/Movies/Hindi/Fanaa%20(2006)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rang_de_basanti.jpg" group-title="☢️ Hindi Movies", Rang De Basanti
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rang_de_basanti.jpg" group-title="🎞️ Hindi Movies", Rang De Basanti
 http://10.16.100.206/ftps3/ftps3d8/Movies/Hindi/Rang%20De%20Basanti%20(2006)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laal_singh_chaddha__4k_.jpg" group-title="☢️ Hindi Movies", Laal Singh Chaddha (4K)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/laal_singh_chaddha__4k_.jpg" group-title="🎞️ Hindi Movies", Laal Singh Chaddha (4K)
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/Hindi/Laal%20Singh%20Chaddha%20(2022)%202160p%20WEBDL.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lagaan__once_upon_a_time_in_india.jpg" group-title="☢️ Hindi Movies", Lagaan: Once Upon a Time in India
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lagaan__once_upon_a_time_in_india.jpg" group-title="🎞️ Hindi Movies", Lagaan: Once Upon a Time in India
 http://10.16.100.245/ftps2d1/Movies/Hindi/Lagaan%20(2001)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rab_ne_bana_di_jodi.jpg" group-title="☢️ Hindi Movies", Rab Ne Bana Di Jodi
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rab_ne_bana_di_jodi.jpg" group-title="🎞️ Hindi Movies", Rab Ne Bana Di Jodi
 http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Hindi/Rab%20Ne%20Bana%20Di%20Jodi%20(2008)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="☢️ Hindi Movies", My Name Is Khan
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="🎞️ Hindi Movies", My Name Is Khan
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="☢️ Hindi Movies", My Name Is Khan
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/my_name_is_khan.jpg" group-title="🎞️ Hindi Movies", My Name Is Khan
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="☢️ Hindi Movies", Chennai Express
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="🎞️ Hindi Movies", Chennai Express
 http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%201080p%20BluRay.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/shang_chi_and_the_legend_of_the_ten_rings__hindi___english_.jpg" group-title="☢️ English Movies", Shang Chi and the Legend of the Ten Rings (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/shang_chi_and_the_legend_of_the_ten_rings__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Shang Chi and the Legend of the Ten Rings (Hindi + English)
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Shang%20Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mulan__hindi___english_.jpg" group-title="☢️ English Movies", Mulan
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mulan__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Mulan
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Dual%20Audio/Mulan%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/seventh_son__hindi___english_.jpg" group-title="☢️ English Movies", Seventh Son (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/seventh_son__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Seventh Son (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/Seventh%20Son%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="☢️ English Movies", Home Alone (1990)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="🎞️ English Movies ▶ Fantasy", Home Alone (1990)
 http://10.16.100.247/ftps5d2/Movies/English/Home%20Alone%20(1990)/Home%20Alone%20(1990)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jurassic_world_rebirth.jpg" group-title="☢️ English Movies", Jurassic World Rebirth
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jurassic_world_rebirth.jpg" group-title="🎞️ English Movies ▶ Fantasy", Jurassic World Rebirth
 http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/English/Jurassic%20World%20Rebirth%20(2025)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_2_lost_in_new_york.jpg" group-title="☢️ English Movies", Home Alone 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_2_lost_in_new_york.jpg" group-title="🎞️ English Movies ▶ Fantasy", Home Alone 2
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/English/Home%20Alone%202%20Lost%20In%20New%20York%20(1992)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_3.jpg" group-title="☢️ English Movies", Home Alone 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_3.jpg" group-title="🎞️ English Movies ▶ Fantasy", Home Alone 3
 http://10.16.100.206/ftps3/ftps3d5/Movies/English/Home%20Alone%203%20(1997)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_1_the_subversion__manyeo___hindi___english_.jpg" group-title="☢️ English Movies", The Witch Part 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_1_the_subversion__manyeo___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", The Witch Part 1
 http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Witch%20Part%201%20The%20Subversion%20(Manyeo)%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_2_the_other_one.jpg" group-title="☢️ English Movies", The Witch Part 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_2_the_other_one.jpg" group-title="🎞️ English Movies ▶ Fantasy", The Witch Part 2
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/Korean/The%20Witch%20Part%202%20The%20Other%20One%20(2022)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_call__kol_.jpg" group-title="☢️ English Movies", The Call
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_call__kol_.jpg" group-title="🎞️ English Movies ▶ Fantasy", The Call
 http://10.16.100.206/ftps3/ftps3d6/Movies/Korean/The%20Call%20(Kol)%20(2020)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/space_sweepers__seungriho___english___hindi_.jpeg" group-title="☢️ English Movies", Space Sweepers
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/space_sweepers__seungriho___english___hindi_.jpeg" group-title="🎞️ English Movies ▶ Fantasy", Space Sweepers
 http://10.16.100.206/ftps3/ftps3d7/Movies/Dual%20Audio/Space%20Sweepers%20(Seungriho)%20(2021)%20(English%20&%20Hindi)%201080p%20WEBRip.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_foreigner.jpg" group-title="☢️ English Movies", The Foreigner
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_foreigner.jpg" group-title="🎞️ English Movies ▶ Fantasy", The Foreigner
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/English/The%20Foreigner%20(2017)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rob_b_hood__bo_bui_gai_wak___hindi___english_.jpg" group-title="☢️ English Movies", Rob B Hood
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rob_b_hood__bo_bui_gai_wak___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Rob B Hood
 http://10.16.100.213/iccftps13/iccftps13sasd8/Movies/Dual%20Audio/Rob%20B%20Hood%20(Bo%20bui%20gai%20wak)%20(2006)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/shaolin_soccer__siu_lam_juk_kau___hindi___chinese_.jpg" group-title="☢️ English Movies", Shaolin Soccer
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/shaolin_soccer__siu_lam_juk_kau___hindi___chinese_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Shaolin Soccer
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Shaolin%20Soccer%20(Siu%20Lam%20juk%20kau)%20(2001)%20(Hindi%20&%20Chinese)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="☢️ English Movies", Kung Fu Hustle
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Kung Fu Hustle
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/Kung%20Fu%20Hustle%20(Kung%20fu)%20(2004)%20(Hindi%20&%20English)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="☢️ English Movies", Kung Fu Hustle
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/kung_fu_hustle__kung_fu___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Kung Fu Hustle
 http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/Dual%20Audio/Kung%20Fu%20Hustle%20(Kung%20fu)%20(2004)%20(Hindi%20&%20English)%20720p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/a_man_called_otto.jpg" group-title="☢️ English Movies", A Man Called Otto
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/a_man_called_otto.jpg" group-title="🎞️ English Movies ▶ Fantasy", A Man Called Otto
 http://10.16.100.206/ftps3/ftps3d6/Movies/English/A%20Man%20Called%20Otto%20(2022)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20of%20Spies%20(2015)%20Poster.jpg" group-title="☢️ English Movies", Bridge of Spies (2015)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20of%20Spies%20(2015)%20Poster.jpg" group-title="🎞️ English Movies ▶ Fantasy", Bridge of Spies (2015)
 http://10.16.100.241/ftps3d3/Movies/Bridge%20of%20Spies%20(2015)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar__hindi___english_.jpg" group-title="☢️ English Movies",Avatar 1 (Hindi + English) 
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Avatar 1 (Hindi + English) 
 http://10.16.100.213/iccftps13/iccftps13sasd9/Movies/Dual%20Audio/Avatar%20(2009)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar_the_way_of_water__hindi___english_.jpg" group-title="☢️ English Movies",Avatar 2 (Hindi + English) 
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/avatar_the_way_of_water__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Avatar 2 (Hindi + English) 
 http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Dual%20Audio/Avatar%20The%20Way%20of%20Water%20(2022)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/into_the_storm__hindi___english_.jpg" group-title="☢️ English Movies", Into the Storm (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/into_the_storm__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Into the Storm (Hindi + English)
 http://10.16.100.202/ftps10/iccftps10sasd6/Movies/Dual%20Audio/Into%20the%20Storm%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/twisters__2024___hindi___english_.jpg" group-title="☢️ English Movies", Twisters (2024) (Hindi + English)
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/twisters__2024___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Twisters (2024) (Hindi + English)
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Twisters%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E01
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E01
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E01.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E02
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E02
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E02.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E03
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E03
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E03.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E04
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E04
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E04.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E05
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E05
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E05.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E06
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E06
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E06.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E07
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E07
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E07.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 01 (2022)",☢️ The Rings The Rings of Power Season 01 (2022) S01E08
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_01__2022__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 01 (2022)",🎞️ The Rings The Rings of Power Season 01 (2022) S01E08
 http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2001%20(2022)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S01E08.mp4
 
 
@@ -367,32 +381,47 @@ http://10.16.100.202/ftps10/iccftps10sasd1/Tv%20Show/Dual%20Audio/The%20Lord%20o
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E01
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E01
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E01.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E02
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E02
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E02.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E03
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E03
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E03.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E04
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E04
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E04.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E05
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E05
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E05.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E06
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E06
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E06.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E07
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E07
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E07.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="☢️ The Rings The Rings of Power Season 02 (2024)",☢️ The Rings The Rings of Power Season 02 (2024) S02E08
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_lord_of_the_rings_the_rings_of_power_season_02__2024__completed.jpg" group-title="🎞️ The Rings The Rings of Power Season 02 (2024)",🎞️ The Rings The Rings of Power Season 02 (2024) S02E08
 http://10.16.100.206/ftps3/ftps3d5/TV%20Show/Dual%20Audio/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20Season%2002%20(2024)%20(Hindi%20&%20English)%20Completed/The%20Lord%20of%20the%20Rings%20The%20Rings%20of%20Power%20S02E08.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_☢️ Hobbit Movie Series_an_unexpected_journey__hindi___english_.jpg" group-title="☢️ Hobbit Movie Series",1. ☢️ Hobbit Movie Series 1
-http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20☢️ Hobbit Movie Series%20An%20Unexpected%20Journey%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20☢️ Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013).jpg" group-title="☢️ Hobbit Movie Series",2. ☢️ Hobbit Movie Series 2
-http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20☢️ Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013)/The%20☢️ Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013).mkv
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20☢️ Hobbit Movie Series%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="☢️ Hobbit Movie Series",3. ☢️ Hobbit Movie Series 3
-http://172.31.31.31/Data/movies/hollywood/2020/The%20☢️ Hobbit Movie Series%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.☢️ Hobbit Movie Series.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_🎞️ Hobbit Movie Series_an_unexpected_journey__hindi___english_.jpg" group-title="🎞️ Hobbit Movie Series",1. 🎞️ Hobbit Movie Series 1
+http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/The%20🎞️ Hobbit Movie Series%20An%20Unexpected%20Journey%20(2012)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20🎞️ Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013).jpg" group-title="🎞️ Hobbit Movie Series",2. 🎞️ Hobbit Movie Series 2
+http://10.16.100.246/ftps4d2/Multi%20Audio%20Dubbed/The%20🎞️ Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013)/The%20🎞️ Hobbit Movie Series%20The%20Desolation%20of%20Smaug%20(2013).mkv
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_The%20🎞️ Hobbit Movie Series%20The%20Battle%20of%20the%20Five%20Armies%20(2014).jpg" group-title="🎞️ Hobbit Movie Series",3. 🎞️ Hobbit Movie Series 3
+http://172.31.31.31/Data/movies/hollywood/2020/The%20🎞️ Hobbit Movie Series%20The%20Battle%20of%20the%20Five%20Armies%20(2014)/The.🎞️ Hobbit Movie Series.The.Battle.of.the.Five.Armies.2014.720p.BluRay.x264.YIFY.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
