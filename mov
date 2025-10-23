@@ -126,6 +126,26 @@ http://103.23.206.189/tsports/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/mantis__samagwi___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Action", Mantis (Samagwi) (Hindi + English)
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Dual%20Audio/Mantis%20(Samagwi)%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/nocturnal__beurokeun___hindi___korean_.jpg" group-title="🎞️ English Movies ▶ Action", Nocturnal (Beurokeun) (Hindi + Korean)
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Dual%20Audio/Nocturnal%20(Beurokeun)%20(2025)%20(Hindi%20&%20Korean)%201080p%20WEBDL.mp4
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hidayah.jpg" group-title="🎞️ English Movies ▶ Horror", Hidayah
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Indonesian/Hidayah%20(2023)%20720p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_conjuring__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Horror", The Conjuring (Hindi + English)
+http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Dual%20Audio/The%20Conjuring%20(2013)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_conjuring_2__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Horror", The Conjuring 2 (Hindi + English)
+http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/Dual%20Audio/The%20Conjuring%202%20(2016)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_conjuring_last_rites__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Horror", The Conjuring Last Rites (Hindi + English)
+http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/The%20Conjuring%20Last%20Rites%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ne_zha__nezha_mo_tong_jiang_shi_.jpg" group-title="☢️ Animation Movies", Ne Zha (ENG + Chinese)
 http://10.16.100.213/iccftps13/iccftps13sasd1/Movies/Anime/Ne%20Zha%20(Nezha%20Mo%20tong%20jiang%20shi)%20(2019)%201080p%20BluRay.mp4
