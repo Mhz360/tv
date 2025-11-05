@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automated Data Sheet</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- SheetJS (xlsx) CDN for Excel export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <!-- PapaParse (csv) CDN for CSV import/export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    
+    <style>
+        body {
+            font-family: 'Inter', 'SolaimanLipi', sans-serif;
+        }
+        /* Basic styling for inputs inside the table */
+        .data-table input[type="text"],
+        .data-table input[type="number"] {
+            width: 100%;
+            border: 1px solid #e2e8f0;
+            padding: 4px 6px;
+            border-radius: 4px;
+            box-sizing: border-box; /* Important for layout */
+        }
+        .data-table input:focus {
+            outline: none;
+            border-color: #3b82f6;
+            box-shadow: 0 0 0 1px #3b82f6;
+        }
+        /* Locked header cells */
+        .data-table th {
+            background-color: #f1f5f9;
+            border: 1px solid #cbd5e1;
+            padding: 8px;
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        /* Data cells */
+        .data-table td {
+            border: 1px solid #e2e8f0;
+            padding: 2px;
+            text-align: center;
+            font-size: 14px;
+        }
+        /* Formula cells (I, J) */
+        .data-table td.formula-cell {
+            background-color: #f8fafc;
+            font-weight: 500;
+            padding: 6px 8px;
+        }
+        /* Tab styles */
+        .tab-button {
+            padding: 10px 16px;
+            cursor: pointer;
+            border: 1px solid transparent;
+            border-bottom: none;
+            border-radius: 6px 6px 0 0;
+            background-color: #f1f5f9;
+        }
+        .tab-button.active {
+            background-color: white;
+            border-color: #d1d5db;
+            border-bottom: 1px solid white;
+            margin-bottom: -1px;
+            font-weight: 600;
+        }
+        .tab-content {
+            display: none;
+            border: 1px solid #d1d5db;
+            padding: 16px;
+            border-radius: 0 6px 6px 6px;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        /* Custom Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 999;
+        }
+        .modal-content {
+            background-color: white;
+            padding: 24px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 p-4 md:p-8">
+
+    <div class="max-w-full mx-auto bg-white rounded-lg shadow-lg p-6">
+        <h1 class="text-2xl font-bold mb-4 text-center">Automated Data Management Sheet</h1>
+
+        <!-- Tab Buttons -->
+        <div class="flex border-b border-gray-300">
+            <button class="tab-button active" onclick="openTab(event, 'entryData')">entry_data</button>
+            <button class="tab-button" onclick="openTab(event, 'summary')">Summery</button>
+        </div>
+
+        <!-- Entry Data Tab -->
+        <div id="entryData" class="tab-content active">
+            <!-- Action Buttons -->
+            <div class="flex flex-wrap gap-2 my-4">
+                <button id="downloadXlsx" class="bg-green-600 text-white px-4 py-2 rounded-lg shadow hover:bg-green-700 transition">
+                    Download (.xlsx)
+                </button>
+                <button id="backupCsv" class="bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700 transition">
+                    Backup (.csv)
+                </button>
+                <button onclick="document.getElementById('importCsvInput').click()" class="bg-yellow-500 text-white px-4 py-2 rounded-lg shadow hover:bg-yellow-600 transition">
+                    Import (.csv)
+                </button>
+                <input type="file" id="importCsvInput" accept=".csv" class="hidden" onchange="importCsv(event)">
+                <button id="resetData" class="bg-red-600 text-white px-4 py-2 rounded-lg shadow hover:bg-red-700 transition">
+                    Reset Data
+                </button>
+            </div>
+
+            <!-- Loading Spinner -->
+            <div id="loading" class="text-center my-4 hidden">
+                <p class="text-lg font-semibold">টেবিল জেনারেট করা হচ্ছে, অনুগ্রহ করে অপেক্ষা করুন...</p>
+                <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-900 mx-auto mt-2"></div>
+            </div>
+
+            <!-- Data Table Container -->
+            <div class="overflow-auto max-h-[70vh] w-full">
+                <table id="dataTable" class="data-table w-full" style="min-width: 1200px;">
+                    <thead class="bg-gray-200">
+                        <tr>
+                            <!-- Static, locked headers (A5:K5) -->
+                            <th>Location/Area</th> <!-- A -->
+                            <th>Items</th> <!-- B -->
+                            <th>Type</th> <!-- C -->
+                            <th>Code</th> <!-- D -->
+                            <th>Apt. No</th> <!-- E -->
+                            <th>xCout</th> <!-- F -->
+                            <th>Distance/Qty</th> <!-- G -->
+                            <th>Unit</th> <!-- H -->
+                            <th>Total</th> <!-- I -->
+                            <th>qty_data</th> <!-- J -->
+                            <th>Remarks</th> <!-- K -->
+                        </tr>
+                    </thead>
+                    <tbody id="dataBody">
+                        <!-- Dynamic rows (A6:K2000) will be generated here by JS -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Summary Tab -->
+        <div id="summary" class="tab-content">
+            <h2 class="text-xl font-semibold mb-4">Data Summary</h2>
+            <div id="summaryContent" class="overflow-auto">
+                <p>"entry_data" ট্যাবে কোনো ডেটা প্রবেশ করালে এখানে স্বয়ংক্রিয়ভাবে একটি সারসংক্ষেপ তৈরি হবে।</p>
+                <!-- Summary table will be injected here by JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Reset Confirmation Modal -->
+    <div id="resetModal" class="modal-overlay hidden">
+        <div class="modal-content text-center">
+            <h3 class="text-lg font-bold mb-4">আপনি কি নিশ্চিত?</h3>
+            <p class="mb-6">এটি সমস্ত ইনপুট ডেটা (A-H এবং K) মুছে ফেলবে। এই কাজটি পূর্বাবস্থায় ফেরানো যাবে না।</p>
+            <div class="flex justify-center gap-4">
+                <button id="confirmReset" class="bg-red-600 text-white px-6 py-2 rounded-lg">হ্যাঁ, রিসেট করুন</button>
+                <button id="cancelReset" class="bg-gray-300 text-gray-800 px-6 py-2 rounded-lg">বাতিল</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // DOM Elements
+        const dataBody = document.getElementById('dataBody');
+        const summaryContent = document.getElementById('summaryContent');
+        const loadingDiv = document.getElementById('loading');
+        
+        const TOTAL_ROWS = 1995; // A6 to K2000 (2000 - 5 = 1995 rows)
+
+        // --- Tab Navigation ---
+        function openTab(event, tabName) {
+            let i, tabcontent, tabbuttons;
+            tabcontent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tabbuttons = document.getElementsByClassName("tab-button");
+            for (i = 0; i < tabbuttons.length; i++) {
+                tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
+            }
+            document.getElementById(tabName).style.display = "block";
+            event.currentTarget.className += " active";
+        }
+
+        // --- Core Row Calculation Logic ---
+        function calculateRow(row) {
+            if (!row) return;
+
+            // Find elements within the row
+            const inputs = row.querySelectorAll('input');
+            const aptNoInput = inputs[4]; // E
+            const xCoutInput = inputs[5]; // F
+            const qtyInput = inputs[6];   // G
+            const unitInput = inputs[7];  // H
+            
+            const totalCell = row.cells[8];  // I
+            const qtyDataCell = row.cells[9]; // J
+
+            // Get values
+            const aptNo = parseFloat(aptNoInput.value) || 0;
+            const xCout = parseFloat(xCoutInput.value) || 0;
+            const qty = parseFloat(qtyInput.value) || 0;
+            const unit = unitInput.value.trim();
+
+            // Calculate qty_data (J)
+            const qtyData = aptNo * xCout * qty;
+            
+            if (qtyData !== 0) {
+                qtyDataCell.textContent = qtyData.toFixed(2); // Show 2 decimal places
+            } else {
+                qtyDataCell.textContent = '';
+            }
+
+            // Calculate Total (I)
+            if (qtyData !== 0 && unit) {
+                totalCell.textContent = `${qtyData.toFixed(2)} ${unit}`;
+            } else if (qtyData !== 0) {
+                totalCell.textContent = qtyData.toFixed(2);
+            } else {
+                totalCell.textContent = '';
+            }
+        }
+        
+        // --- Summary Calculation Logic ---
+        function updateSummary() {
+            const summaryData = {};
+            const rows = dataBody.getElementsByTagName('tr');
+
+            for (const row of rows) {
+                const type = row.cells[2].querySelector('input').value.trim();
+                const code = row.cells[3].querySelector('input').value.trim();
+                const item = row.cells[1].querySelector('input').value.trim();
+                const unit = row.cells[7].querySelector('input').value.trim();
+                const qty = parseFloat(row.cells[9].textContent); // Get from qty_data (J)
+
+                if (qty > 0 && item && type && code && unit) {
+                    const groupKey = `${type}|${code}|${item}|${unit}`;
+                    
+                    if (!summaryData[groupKey]) {
+                        summaryData[groupKey] = {
+                            type: type,
+                            code: code,
+                            item: item,
+                            unit: unit,
+                            total: 0
+                        };
+                    }
+                    summaryData[groupKey].total += qty;
+                }
+            }
+
+            // Render summary table
+            if (Object.keys(summaryData).length === 0) {
+                summaryContent.innerHTML = '<p>"entry_data" ট্যাবে কোনো ডেটা প্রবেশ করালে এখানে স্বয়ংক্রিয়ভাবে একটি সারসংক্ষেপ তৈরি হবে।</p>';
+                return;
+            }
+
+            let tableHTML = '<table class="w-full text-left border-collapse">';
+            tableHTML += `
+                <thead class="bg-gray-100">
+                    <tr>
+                        <th class="border p-2">Type (C)</th>
+                        <th class="border p-2">Code (D)</th>
+                        <th class="border p-2">Item (B)</th>
+                        <th class="border p-2">Total Quantity</th>
+                        <th class="border p-2">Unit (H)</th>
+                    </tr>
+                </thead>
+                <tbody>
+            `;
+
+            for (const key in summaryData) {
+                const group = summaryData[key];
+                tableHTML += `
+                    <tr>
+                        <td class="border p-2">${group.type}</td>
+                        <td class="border p-2">${group.code}</td>
+                        <td class="border p-2">${group.item}</td>
+                        <td class="border p-2 font-bold">${group.total.toFixed(2)}</td>
+                        <td class="border p-2">${group.unit}</td>
+                    </tr>
+                `;
+            }
+
+            tableHTML += '</tbody></table>';
+            summaryContent.innerHTML = tableHTML;
+        }
+
+        // --- Table Generation ---
+        function generateTable() {
+            loadingDiv.style.display = 'block';
+            
+            // Use requestAnimationFrame to avoid blocking the UI
+            requestAnimationFrame(() => {
+                const fragment = document.createDocumentFragment();
+                for (let i = 0; i < TOTAL_ROWS; i++) {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td><input type="text"></td> <!-- A -->
+                        <td><input type="text"></td> <!-- B -->
+                        <td><input type="text"></td> <!-- C -->
+                        <td><input type="text"></td> <!-- D -->
+                        <td><input type="number" min="0"></td> <!-- E -->
+                        <td><input type="number" min="0"></td> <!-- F -->
+                        <td><input type="number" min="0" step="0.01"></td> <!-- G -->
+                        <td><input type="text"></td> <!-- H -->
+                        <td class="formula-cell"></td> <!-- I (Total) -->
+                        <td class="formula-cell"></td> <!-- J (qty_data) -->
+                        <td><input type="text"></td> <!-- K -->
+                    `;
+                    fragment.appendChild(row);
+                }
+                dataBody.appendChild(fragment);
+                loadingDiv.style.display = 'none';
+
+                // Add event listener to the table body for delegation
+                dataBody.addEventListener('input', (e) => {
+                    if (e.target.tagName === 'INPUT') {
+                        const row = e.target.closest('tr');
+                        calculateRow(row);
+                        // Debounce summary update for performance
+                        clearTimeout(window.summaryTimer);
+                        window.summaryTimer = setTimeout(updateSummary, 300);
+                    }
+                });
+            });
+        }
+
+        // --- Button Event Listeners ---
+
+        // 1. Download XLSX
+        document.getElementById('downloadXlsx').addEventListener('click', () => {
+            const data = [];
+            // Add Header Row (A, B, C, D, E, F, G, H, J, K)
+            data.push([
+                "Location/Area", "Items", "Type", "Code", "Apt. No", 
+                "xCout", "Distance/Qty", "Unit", "qty_data", "Remarks"
+            ]);
+
+            const rows = dataBody.getElementsByTagName('tr');
+            for (const row of rows) {
+                const inputs = row.querySelectorAll('input');
+                const qtyData = row.cells[9].textContent; // J
+
+                // Only add non-empty rows
+                if (Array.from(inputs).some(input => input.value) || qtyData) {
+                    data.push([
+                        inputs[0].value, // A
+                        inputs[1].value, // B
+                        inputs[2].value, // C
+                        inputs[3].value, // D
+                        inputs[4].value, // E
+                        inputs[5].value, // F
+                        inputs[6].value, // G
+                        inputs[7].value, // H
+                        qtyData,         // J
+                        inputs[8].value  // K (Note: input index 8 is K, as I/J are not inputs)
+                    ]);
+                }
+            }
+            
+            if (data.length <= 1) {
+                alert("ডাউনলোড করার জন্য কোনো ডেটা নেই।"); // Using alert as a simple notification
+                return;
+            }
+
+            const ws = XLSX.utils.aoa_to_sheet(data);
+            
+            // Apply centered alignment to all cells
+            const range = XLSX.utils.decode_range(ws['!ref']);
+            for (let R = range.s.r; R <= range.e.r; ++R) {
+                for (let C = range.s.c; C <= range.e.c; ++C) {
+                    const cell_address = { c: C, r: R };
+                    const cell_ref = XLSX.utils.encode_cell(cell_address);
+                    if (!ws[cell_ref]) continue;
+                    ws[cell_ref].s = { 
+                        alignment: { horizontal: "center", vertical: "center" } 
+                    };
+                }
+            }
+
+            const wb = XLSX.utils.book_new();
+            XLSX.utils.book_append_sheet(wb, ws, "entry_data_export");
+            
+            const fileName = `${new Date().toISOString().split('T')[0]}_data_export.xlsx`;
+            XLSX.writeFile(wb, fileName);
+        });
+
+        // 2. Backup CSV
+        document.getElementById('backupCsv').addEventListener('click', () => {
+            const data = [];
+            // Add Header Row (A5:K5)
+            data.push([
+                "Location/Area", "Items", "Type", "Code", "Apt. No", 
+                "xCout", "Distance/Qty", "Unit", "Total", "qty_data", "Remarks"
+            ]);
+
+            const rows = dataBody.getElementsByTagName('tr');
+            for (const row of rows) {
+                const inputs = row.querySelectorAll('input');
+                // Check if row is not empty
+                if (Array.from(inputs).some(input => input.value)) {
+                     data.push([
+                        inputs[0].value, // A
+                        inputs[1].value, // B
+                        inputs[2].value, // C
+                        inputs[3].value, // D
+                        inputs[4].value, // E
+                        inputs[5].value, // F
+                        inputs[6].value, // G
+                        inputs[7].value, // H
+                        row.cells[8].textContent, // I (Total - static value)
+                        row.cells[9].textContent, // J (qty_data - static value)
+                        inputs[8].value  // K
+                    ]);
+                }
+            }
+
+            if (data.length <= 1) {
+                alert("ব্যাকআপ করার জন্য কোনো ডেটা নেই।");
+                return;
+            }
+
+            const csv = Papa.unparse(data);
+            const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement("a");
+            const url = URL.createObjectURL(blob);
+            link.setAttribute("href", url);
+            const fileName = `${new Date().toISOString().split('T')[0]}_backup.csv`;
+            link.setAttribute("download", fileName);
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        });
+
+        // 3. Import CSV (function called by input's onchange)
+        function importCsv(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            Papa.parse(file, {
+                complete: (results) => {
+                    const data = results.data;
+                    if (data.length < 2) {
+                        alert("ইম্পোর্ট করার জন্য ফাইলে কোনো ডেটা নেই।");
+                        return;
+                    }
+
+                    const rows = dataBody.getElementsByTagName('tr');
+                    
+                    // Start from i = 1 to skip header row in CSV
+                    for (let i = 1; i < data.length; i++) {
+                        const rowData = data[i];
+                        const rowIndex = i - 1; // Match to table row index
+
+                        if (rowIndex >= TOTAL_ROWS) break; // Don't overflow table
+                        if (rowData.length < 11) continue; // Skip malformed rows
+
+                        const tableRow = rows[rowIndex];
+                        const inputs = tableRow.querySelectorAll('input');
+                        
+                        // Import only A-H and K. I and J are formulas.
+                        inputs[0].value = rowData[0] || ''; // A
+                        inputs[1].value = rowData[1] || ''; // B
+                        inputs[2].value = rowData[2] || ''; // C
+                        inputs[3].value = rowData[3] || ''; // D
+                        inputs[4].value = rowData[4] || ''; // E
+                        inputs[5].value = rowData[5] || ''; // F
+                        inputs[6].value = rowData[6] || ''; // G
+                        inputs[7].value = rowData[7] || ''; // H
+                        inputs[8].value = rowData[10] || ''; // K (from column 11 in CSV)
+                        
+                        // Recalculate the row
+                        calculateRow(tableRow);
+                    }
+                    
+                    // Update summary after all imports
+                    updateSummary();
+                    alert("ইম্পোর্ট সম্পন্ন হয়েছে!");
+                    event.target.value = null; // Clear input for re-upload
+                },
+                error: (err) => {
+                    alert("ফাইল পড়তে একটি ত্রুটি হয়েছে: " + err.message);
+                    event.target.value = null;
+                }
+            });
+        }
+
+        // 4. Reset Data
+        const resetModal = document.getElementById('resetModal');
+        document.getElementById('resetData').addEventListener('click', () => {
+            resetModal.style.display = 'flex';
+        });
+        document.getElementById('cancelReset').addEventListener('click', () => {
+            resetModal.style.display = 'none';
+        });
+        document.getElementById('confirmReset').addEventListener('click', () => {
+            const rows = dataBody.getElementsByTagName('tr');
+            for (const row of rows) {
+                const inputs = row.querySelectorAll('input');
+                // Clear A-H and K (index 0-7 and 8)
+                for(let i = 0; i <= 7; i++) {
+                    inputs[i].value = '';
+                }
+                inputs[8].value = ''; // Clear K
+                
+                // Recalculate row (which will clear I and J)
+                calculateRow(row);
+            }
+            updateSummary(); // Clear summary
+            resetModal.style.display = 'none';
+        });
+
+        // --- Initial Load ---
+        generateTable();
+
+    </script>
+</body>
+</html>
