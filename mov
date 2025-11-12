@@ -103,20 +103,24 @@ http://alvetv.com/movieBangladeshi TV ○ 🅻🅸🆅🅴tv/8080/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Sports 1 ICC
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sonysports1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Sports 1 ICC
 http://10.16.100.213:8080/hls/Ten1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Sports 1 ICC
-'http://10.16.100.202:8080/hls/SolhSports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports ICC
-'http://10.16.100.202:8080/hls/SolhSports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/starsportsselect1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
 http://10.16.100.206:8080/hls/select1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports 2 ICC
-http://10.16.100.206:8080/hls/SolhSports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports
 http://103.23.206.189/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports ICC
 http://10.16.100.202:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/asports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", A Sports Maya
+http://103.23.206.189/asports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 1 Maya
+http://103.23.206.189/beinsports1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports2.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
+http://103.23.206.189/beinsports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
+http://103.23.206.189/beinsports3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
+http://103.23.206.189/beinsports3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/60/89/da/6089da70-098c-467b-09a5-4be48e12e36f/source/512x512bb.jpg" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",PTV Sports ICC
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Star Sports 1 Hindi HD (1080p)
@@ -131,6 +135,10 @@ http://116.90.120.149:8000/play/a0cl/index.m3u8
 http://116.90.120.149:8000/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports 2
 http://103.23.206.189/tsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/solhsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports ICC
+'http://10.16.100.202:8080/hls/SolhSports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/solhsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports 2 ICC
+http://10.16.100.206:8080/hls/SolhSports.m3u8
 
 
 
