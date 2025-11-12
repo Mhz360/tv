@@ -104,7 +104,7 @@ http://alvetv.com/movieBangladeshi TV ○ 🅻🅸🆅🅴tv/8080/index.m3u8
 http://10.16.100.213:8080/hls/Ten1HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/starsportsselect1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
 http://10.16.100.206:8080/hls/select1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports Maya
 http://103.23.206.189/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports ICC
 http://10.16.100.202:8080/hls/tsports.m3u8
