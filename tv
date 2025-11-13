@@ -7,6 +7,8 @@
 http://87.255.35.150:18238
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Jalsha HD
 http://87.255.35.150:18237
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
+http://87.255.35.150:18236
 
 
 
@@ -116,10 +118,6 @@ http://87.255.35.150:18548
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Star Movies HD
 http://87.255.35.150:18301
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
-http://87.255.35.150:18236
 
 
 
