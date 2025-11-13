@@ -63,9 +63,10 @@ http://103.23.206.189/peacetv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies TV ○ 🅻🅸🆅🅴",B4U Movies India (1080p)
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies TV ○ 🅻🅸🆅🅴",B4U Movies India
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Movies TV ○ 🅻🅸🆅🅴", Colors TV
+http://87.255.35.150:18890
 
 
 
