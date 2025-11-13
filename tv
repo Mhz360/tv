@@ -43,16 +43,6 @@ http://87.255.35.150:18445
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Cartoon ○ 🅻🅸🆅🅴", Sony Yay!
-http://87.255.35.150:18285
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/nagroiktv.png" group-title="FTP TV ○ 🅻🅸🆅🅴",Nagorik TV
 http://103.23.206.189/nagoriktv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/gazi.png" group-title="FTP TV ○ 🅻🅸🆅🅴",GTV
@@ -67,6 +57,28 @@ http://103.23.206.189/peacetv/index.m3u8
 http://103.23.206.189/peacetv/index.m3u8
 
 
+
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-01.png" group-title="News TV ○ 🅻🅸🆅🅴", NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Cartoon ○ 🅻🅸🆅🅴", Sony Yay!
+http://87.255.35.150:18285
 
 
 
@@ -85,23 +97,6 @@ http://87.255.35.150:18828
 #EXTINF:-1 tvg-id="" tvg-logo="https://thumbnail.imgbin.com/21/8/16/imgbin-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-Tmy7K7Eq57Ks3vfsJhwimzWEv_t.jpg" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports 3 HD
 http://87.255.35.150:18804
 
-
-
-
-#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-01.png" group-title="News TV ○ 🅻🅸🆅🅴", NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 
 
@@ -143,10 +138,6 @@ http://87.255.35.150:18841
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Zee Bangla HD
-http://87.255.35.150:18238
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Jalsha HD
-http://87.255.35.150:18237
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
 http://87.255.35.150:18890
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/SONY_PAL.svg" group-title="Indian TV ○ 🅻🅸🆅🅴", Sony Pal
