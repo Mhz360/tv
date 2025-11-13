@@ -171,10 +171,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
