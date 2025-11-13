@@ -77,25 +77,35 @@ http://87.255.35.150:18296
 http://87.255.35.150:18936
 #EXTINF:-1 tvg-id="" tvg-logo="https://content.jdmagicbox.com/v2/comp/bangalore/g7/080pxx80.xx80.110303174049.d2g7/catalogue/movies-now-channel-m-g-road-bangalore-satellite-channels-sfgynswvzd.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Movies Now
 http://87.255.35.150:18935
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/31/1/sony-pix-logo-png_seeklogo-310755.png" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Sony Pix
+http://87.255.35.150:18495
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies TV ○ 🅻🅸🆅🅴",B4U Movies India
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
-http://87.255.35.150:18890
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
 http://87.255.35.150:18236
+
+
+
+
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Indian Movies TV ○ 🅻🅸🆅🅴",B4U Movies India
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Colors_Cineplex_Black.png" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex
 http://87.255.35.150:18296
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HxjX5UF.jpg" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex Bollywood
 http://103.182.170.32:8888/play/a01o
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sony_MAX_2_Logo_%282022%29.png/2048px-Sony_MAX_2_Logo_%282022%29.png" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Sony Max 2 Bollywood
+http://87.255.35.150:18841
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
+http://87.255.35.150:18890
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/SONY_PAL.svg" group-title="Indian TV ○ 🅻🅸🆅🅴", Sony Pal
+http://87.255.35.150:18887
 
 
 
