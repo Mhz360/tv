@@ -114,9 +114,7 @@ http://103.23.206.189/asports/index.m3u8
 http://103.23.206.189/beinsports1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports2.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
 http://103.23.206.189/beinsports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
-http://103.23.206.189/beinsports3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 3 Maya
 http://103.23.206.189/beinsports3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/60/89/da/6089da70-098c-467b-09a5-4be48e12e36f/source/512x512bb.jpg" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",PTV Sports ICC
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
