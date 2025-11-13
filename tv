@@ -62,6 +62,14 @@ http://103.23.206.189/peacetv/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://iili.io/HxjX5UF.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex Bollywood
+http://87.255.35.150:18838
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Colors-infinity.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex
+http://87.255.35.150:18296
+
+
+
+
 
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies TV ○ 🅻🅸🆅🅴",B4U Movies India
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
@@ -73,9 +81,6 @@ http://87.255.35.150:18236
 http://87.255.35.150:18296
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://iili.io/HxjX5UF.jpg" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex Bollywood
 http://103.182.170.32:8888/play/a01o
-
-
-
 
 
 
