@@ -45,6 +45,8 @@ http://103.23.206.189/maasrangatv/index.m3u8
 http://103.23.206.189/durontotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="FTP TV ○ 🅻🅸🆅🅴",Peace TV
 http://103.23.206.189/peacetv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="Islamic TV ○ 🅻🅸🆅🅴", Peace TV Bangla
+http://103.23.206.189/peacetv/index.m3u8
 
 
 
@@ -61,16 +63,24 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="Islamic TV ○ 🅻🅸🆅🅴", Peace TV Bangla
-http://103.23.206.189/peacetv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-01.png" group-title="News TV ○ 🅻🅸🆅🅴", NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://iili.io/HxjX5UF.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HxjX5UF.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex Bollywood
 http://87.255.35.150:18838
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Colors-infinity.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Colors-infinity.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex
 http://87.255.35.150:18296
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/MNX.png" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", MNX
+http://87.255.35.150:18936
+#EXTINF:-1 tvg-id="" tvg-logo="https://content.jdmagicbox.com/v2/comp/bangalore/g7/080pxx80.xx80.110303174049.d2g7/catalogue/movies-now-channel-m-g-road-bangalore-satellite-channels-sfgynswvzd.jpg" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Movies Now
+http://87.255.35.150:18935
+
+
+
+
 
 
 
@@ -78,13 +88,13 @@ http://87.255.35.150:18296
 
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies TV ○ 🅻🅸🆅🅴",B4U Movies India
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
 http://87.255.35.150:18890
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
 http://87.255.35.150:18236
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Colors_Cineplex_Black.png" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Colors_Cineplex_Black.png" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex
 http://87.255.35.150:18296
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://iili.io/HxjX5UF.jpg" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HxjX5UF.jpg" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex Bollywood
 http://103.182.170.32:8888/play/a01o
 
 
