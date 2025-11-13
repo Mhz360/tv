@@ -1,0 +1,121 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sonysports1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Sports 1 ICC
+http://10.16.100.213:8080/hls/Ten1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/starsportsselect1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
+http://10.16.100.206:8080/hls/select1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports Maya
+http://103.23.206.189/tsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports ICC
+http://10.16.100.202:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/asports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", A Sports Maya
+http://103.23.206.189/asports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 1 Maya
+http://103.23.206.189/beinsports1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports2.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
+http://103.23.206.189/beinsports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 3 Maya
+http://103.23.206.189/beinsports3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/60/89/da/6089da70-098c-467b-09a5-4be48e12e36f/source/512x512bb.jpg" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",PTV Sports ICC
+http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports 2
+http://103.23.206.189/tsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/solhsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports ICC
+'http://10.16.100.202:8080/hls/SolhSports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/solhsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports 2 ICC
+http://10.16.100.206:8080/hls/SolhSports.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="FTP TV ○ 🅻🅸🆅🅴",Tsports
+http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports(8).png" group-title="FTP TV ○ 🅻🅸🆅🅴",LIVE
+http://100.100.100.100:3255/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="FTP TV ○ 🅻🅸🆅🅴",Tsports 2
+http://103.23.206.189/tsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/gazi.png" group-title="FTP TV ○ 🅻🅸🆅🅴",GTV
+http://103.23.206.189/gtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/maasranga.jpg" group-title="FTP TV ○ 🅻🅸🆅🅴",Maasranga TV
+http://103.23.206.189/maasrangatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Durantotv.png" group-title="FTP TV ○ 🅻🅸🆅🅴",Duronto TV
+http://103.23.206.189/durontotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/nagroiktv.png" group-title="FTP TV ○ 🅻🅸🆅🅴",Nagorik TV
+http://103.23.206.189/nagoriktv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="FTP TV ○ 🅻🅸🆅🅴",Peace TV
+http://103.23.206.189/peacetv/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="News TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="Islamic TV ○ 🅻🅸🆅🅴", Peace TV Bangla 2
+http://103.23.206.189/peacetv/index.m3u8
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-logo="https://i.imgur.com/1ztVXUi.png" group-title="Islamic TV ○ 🅻🅸🆅🅴",Peace TV Bangla 2
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies TV ○ 🅻🅸🆅🅴",B4U Movies India (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV-[2]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/deepto_television.jpg",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg",Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png",MY TV HD
+https://mytvBangladeshi TV ○ 🅻🅸🆅🅴.com/0.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie BANGLA 
+http://alvetv.com/movieBangladeshi TV ○ 🅻🅸🆅🅴tv/8080/index.m3u8
+
+
+
+
