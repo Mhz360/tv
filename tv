@@ -27,6 +27,11 @@ http://10.16.100.213:8080/hls/Ten1HD.m3u8
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/starsportsselect1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
 http://10.16.100.206:8080/hls/select1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Colors_Super.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
+http://87.255.35.150:18445
+
+
+
 
 
 
