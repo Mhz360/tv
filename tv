@@ -33,16 +33,11 @@ http://87.255.35.150:18445
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://medianet.mv/media/channel/178x0-icon.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Ten 1
-http://87.255.35.150:18926
-#EXTINF:-1 tvg-id="" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1837_1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Ten 3 Hindi
-http://87.255.35.150:18848
-#EXTINF:-1 tvg-id="" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1837_1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Ten 3
-http://87.255.35.150:18927
-#EXTINF:-1 tvg-id="" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/49-s.webp" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Ten 5 HD
-http://87.255.35.150:18818
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.adgully.com/img/800/201907/sony-yay.jpg" group-title="Cartoon ○ 🅻🅸🆅🅴", Sony Yay!
+http://87.255.35.150:18285
 
 
 
@@ -120,14 +115,14 @@ http://87.255.35.150:18841
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Jalsha HD
+http://87.255.35.150:18237
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
 http://87.255.35.150:18890
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/SONY_PAL.svg" group-title="Indian TV ○ 🅻🅸🆅🅴", Sony Pal
 http://87.255.35.150:18887
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Star_Bharat_Logo.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Bharat HD
+http://87.255.35.150:18555
 
 
 
