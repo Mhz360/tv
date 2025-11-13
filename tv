@@ -3,6 +3,14 @@
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Zee Bangla HD
+http://87.255.35.150:18238
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Jalsha HD
+http://87.255.35.150:18237
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports Maya
 http://103.23.206.189/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/asports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", A Sports Maya
@@ -72,8 +80,10 @@ http://87.255.35.150:18848
 http://87.255.35.150:18927
 #EXTINF:-1 tvg-id="" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/49-s.webp" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Ten 5 HD
 http://87.255.35.150:18818
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/724/655/png-clipart-star-sports-star-india-television-channel-sony-ten-2-cricket-television-text.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports 2 HD
+http://87.255.35.150:18828
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbnail.imgbin.com/21/8/16/imgbin-cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-Tmy7K7Eq57Ks3vfsJhwimzWEv_t.jpg" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports 3 HD
+http://87.255.35.150:18804
 
 
 
@@ -131,6 +141,10 @@ http://87.255.35.150:18841
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Zee Bangla HD
+http://87.255.35.150:18238
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Jalsha HD
 http://87.255.35.150:18237
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
@@ -139,6 +153,12 @@ http://87.255.35.150:18890
 http://87.255.35.150:18887
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Star_Bharat_Logo.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Bharat HD
 http://87.255.35.150:18555
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Star_Pravah_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Pravah HD
+http://87.255.35.150:18447
+
+
+
+
 
 
 
