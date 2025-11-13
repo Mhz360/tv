@@ -65,13 +65,12 @@ http://103.23.206.189/peacetv/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies TV ○ 🅻🅸🆅🅴",B4U Movies India
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Movies TV ○ 🅻🅸🆅🅴", Colors TV
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors TV
 http://87.255.35.150:18890
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1280px-Colors_TV_logo.svg.png" group-title="Movies TV ○ 🅻🅸🆅🅴", Colors Bangla TV
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
 http://87.255.35.150:18236
-
-
-
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Colors_Cineplex_Black.png" group-title="Indian Movies TV ○ 🅻🅸🆅🅴", Colors Cineplex
+http://87.255.35.150:18296
 
 
 
