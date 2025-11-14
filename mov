@@ -135,8 +135,9 @@ http://172.31.31.31/Data/movies/animation/2011-2020/Despicable%20Me%203%20(2017)
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_4.jpg" group-title="🎞️ Animation Movies", Despicable Me 4
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Animated/Despicable%20Me%204%20(2024)%201080p%20WEBRip.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://new.circleftp.net:5000/uploads/350ab6c5-a9b1-4b61-b5a8-fe517aed6159.jpeg" group-title="🎞️ Animation Movies", Superman
-http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/Superman%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="🎞️ Hindi Movies", Sitaare Zameen Par
@@ -230,6 +231,12 @@ http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Dual%20Audio/Avatar%20The%20Wa
 http://10.16.100.202/ftps10/iccftps10sasd6/Movies/Dual%20Audio/Into%20the%20Storm%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/twisters__2024___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Twisters (2024) (Hindi + English)
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Twisters%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Superman
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/Superman%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+
 
 
 
