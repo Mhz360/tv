@@ -1,4 +1,5 @@
-p#EXTM3U
+#EXTM3U
+
 
 
 
@@ -8,8 +9,11 @@ http://10.16.100.206/ftps3/ftps3d1/Movies/Dual%20Audio/Train%20to%20Busan%20(Bus
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Dual%20Audio/Mantis%20(Samagwi)%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/nocturnal__beurokeun___hindi___korean_.jpg" group-title="🎞️ English Movies ▶ Action", Nocturnal (Beurokeun) (Hindi + Korean)
 http://10.16.100.202/ftps10/iccftps10sasd4/Movies/Dual%20Audio/Nocturnal%20(Beurokeun)%20(2025)%20(Hindi%20&%20Korean)%201080p%20WEBDL.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://new.circleftp.net:5000/uploads/ca4e83ea-101c-479d-81e8-b3070d599a18.jpeg" group-title="🎞️ English Movies ▶ Action", Predator Badlands (2025)
-http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2025/Predator%20Badlands%20%282025%29%201080p%20HDTS%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Predator%20Badlands%20%282025%29%201080p%20HDTS%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/hidayah.jpg" group-title="🎞️ English Movies ▶ Horror", Hidayah
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Indonesian/Hidayah%20(2023)%20720p%20WEBRip.mp4
@@ -233,8 +237,6 @@ http://10.16.100.202/ftps10/iccftps10sasd6/Movies/Dual%20Audio/Into%20the%20Stor
 http://10.16.100.202/ftps10/iccftps10sasd9/Movies/Dual%20Audio/Twisters%20(2024)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Superman
-http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/Superman%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
 
