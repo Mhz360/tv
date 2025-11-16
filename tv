@@ -3,11 +3,6 @@
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports Maya
 http://103.23.206.189/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/asports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", A Sports Maya
@@ -31,12 +26,7 @@ http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian TV ○ 🅻🅸🆅🅴", Zee Bangla HD
-http://87.255.35.150:18238
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Jalsha HD
-http://87.255.35.150:18237
-#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
-http://87.255.35.150:18236
+
 
 
 
@@ -50,8 +40,18 @@ http://103.23.206.189/maasrangatv/index.m3u8
 http://103.23.206.189/durontotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="FTP TV ○ 🅻🅸🆅🅴",Peace TV
 http://103.23.206.189/peacetv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/peacetv.png" group-title="Islamic TV ○ 🅻🅸🆅🅴", Peace TV Bangla
-http://103.23.206.189/peacetv/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian TV ○ 🅻🅸🆅🅴", Zee Bangla HD
+http://87.255.35.150:18238
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Jalsha HD
+http://87.255.35.150:18237
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/60/192/png-clipart-colors-bangla-bengali-television-show-television-channel-nepalis-purple-television.png" group-title="Indian Bangla TV ○ 🅻🅸🆅🅴", Colors Bangla TV
+http://87.255.35.150:18236
+
+
 
 
 
