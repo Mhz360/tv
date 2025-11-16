@@ -25,16 +25,15 @@ http://103.23.206.189/beinsports2/index.m3u8
 http://103.23.206.189/beinsports3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports 2
 http://103.23.206.189/tsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/PTV.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports ICC
-http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/PTV.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports Maya
 http://103.23.206.189/ptvsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/supercricket.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Super Sports Maya
 http://103.23.206.189/supercricket/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/tensports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Ten Sports Maya
 http://103.23.206.189/tensports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Colors_Super.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1
-http://87.255.35.150:18445
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/PTV.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports ICC
+http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
+
 
 
 
@@ -115,6 +114,8 @@ http://87.255.35.150:18548
 http://87.255.35.150:18301
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/movie_bangla.jpg" group-title="Bangla Movies TV ○ 🅻🅸🆅🅴", Bangla Movies Maya
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="Bangla Movies TV ○ 🅻🅸🆅🅴" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg", &Filx
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 
 
 
@@ -141,7 +142,8 @@ http://87.255.35.150:18887
 http://87.255.35.150:18555
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Star_Pravah_2023.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Star Pravah HD
 http://87.255.35.150:18447
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Colors_Super.png" group-title="Indian TV ○ 🅻🅸🆅🅴", Colors Super
+http://87.255.35.150:18445
 
 
 
@@ -172,7 +174,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
+#EXTINF:-1 group-title="Bangladeshi TV ○ 🅻🅸🆅🅴" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 
 
