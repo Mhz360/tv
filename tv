@@ -25,19 +25,15 @@ http://103.23.206.189/beinsports2/index.m3u8
 http://103.23.206.189/beinsports3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports 2
 http://103.23.206.189/tsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/solhsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports ICC
-'http://10.16.100.202:8080/hls/SolhSports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/solhsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Solh Sports 2 ICC
-http://10.16.100.206:8080/hls/SolhSports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports ICC
-http://10.16.100.202:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sonysports1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Sony Sports 1 ICC
-http://10.16.100.213:8080/hls/Ten1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/60/89/da/6089da70-098c-467b-09a5-4be48e12e36f/source/512x512bb.jpg" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",PTV Sports ICC
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/PTV.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports ICC
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/starsportsselect1hd(3).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
-http://10.16.100.206:8080/hls/select1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Colors_Super.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1 ICC
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/PTV.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports Maya
+http://103.23.206.189/ptvsports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/supercricket.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Super Sports Maya
+http://103.23.206.189/supercricket/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/tensports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Ten Sports Maya
+http://103.23.206.189/tensports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Colors_Super.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Star Sports Select 1
 http://87.255.35.150:18445
 
 
@@ -117,7 +113,8 @@ http://87.255.35.150:18495
 http://87.255.35.150:18548
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Holywood Movies TV ○ 🅻🅸🆅🅴", Star Movies HD
 http://87.255.35.150:18301
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/movie_bangla.jpg" group-title="Bangla Movies TV ○ 🅻🅸🆅🅴", Bangla Movies Maya
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 
