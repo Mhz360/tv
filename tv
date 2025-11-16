@@ -114,8 +114,7 @@ http://87.255.35.150:18548
 http://87.255.35.150:18301
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/movie_bangla.jpg" group-title="Bangla Movies TV ○ 🅻🅸🆅🅴", Bangla Movies Maya
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 group-title="Bangla Movies TV ○ 🅻🅸🆅🅴" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg", &Filx
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
+
 
 
 
