@@ -8,6 +8,11 @@ http://10.16.100.214/iccftps14/iccftps14sasd8/Movies/Dual%20Audio/Rush%20Hour%20
 http://10.16.100.213/iccftps13/iccftps13sasd8/Movies/Dual%20Audio/Rush%20Hour%202%20(2001)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rush_hour_3__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Comedy", Rush Hour 3 (Hindi + English)
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Dual%20Audio/Rush%20Hour%203%20(2007)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/johnny_english_strikes_again__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Comedy", Johnny English Strikes Again
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/Dual%20Audio/Johnny%20English%20Strikes%20Again%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+
+
+
 
 
 
@@ -38,6 +43,9 @@ http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/Dual%20Audio/The%20Conjurin
 http://10.16.100.212/iccftps12/iccftps12sasd2/Movies/Dual%20Audio/The%20Conjuring%202%20(2016)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_conjuring_last_rites__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Horror", The Conjuring Last Rites (Hindi + English)
 http://10.16.100.213/iccftps13/iccftps13sasd2/Movies/Dual%20Audio/The%20Conjuring%20Last%20Rites%20(2025)%20(Hindi%20&%20English)%201080p%20WEBDL.mp4
+
+
+
 
 
 
@@ -159,6 +167,9 @@ http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Animated/Despicable%20Me%204%2
 
 
 
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="🎞️ Hindi Movies", Sitaare Zameen Par
 http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20to%20Terabithia%202007.jpg" group-title="🎞️ Hindi Movies", Bridge to Terabithia (2007) Dual Audio
@@ -201,6 +212,8 @@ http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Kha
 http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Khan%20(2010)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="🎞️ Hindi Movies", Chennai Express
 http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%201080p%20BluRay.mp4
+
+
 
 
 
