@@ -10,8 +10,12 @@ http://10.16.100.213/iccftps13/iccftps13sasd8/Movies/Dual%20Audio/Rush%20Hour%20
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Dual%20Audio/Rush%20Hour%203%20(2007)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/johnny_english_strikes_again__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Comedy", Johnny English Strikes Again
 http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/Dual%20Audio/Johnny%20English%20Strikes%20Again%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="🎞️ English Movies ▶ Comedy", Home Alone (1990)
+http://10.16.100.247/ftps5d2/Movies/English/Home%20Alone%20(1990)/Home%20Alone%20(1990)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_2_lost_in_new_york.jpg" group-title="🎞️ English Movies ▶ Comedy", Home Alone 2
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/English/Home%20Alone%202%20Lost%20In%20New%20York%20(1992)%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_3.jpg" group-title="🎞️ English Movies ▶ Comedy", Home Alone 3
+http://10.16.100.206/ftps3/ftps3d5/Movies/English/Home%20Alone%203%20(1997)%201080p%20WEBRip.mp4
 
 
 
@@ -225,14 +229,8 @@ http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Dual%20Audio/Shang%20Chi%2
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Dual%20Audio/Mulan%20(2020)%20(Hindi%20&%20English)%201080p%20BluRay.mkv
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/seventh_son__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", Seventh Son (Hindi + English)
 http://10.16.100.206/ftps3/ftps3d4/Movies/Dual%20Audio/Seventh%20Son%20(2014)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Home%20Alone%20(1990).jpg" group-title="🎞️ English Movies ▶ Fantasy", Home Alone (1990)
-http://10.16.100.247/ftps5d2/Movies/English/Home%20Alone%20(1990)/Home%20Alone%20(1990)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/jurassic_world_rebirth.jpg" group-title="🎞️ English Movies ▶ Fantasy", Jurassic World Rebirth
 http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/English/Jurassic%20World%20Rebirth%20(2025)%201080p%20WEBRip.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_2_lost_in_new_york.jpg" group-title="🎞️ English Movies ▶ Fantasy", Home Alone 2
-http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/English/Home%20Alone%202%20Lost%20In%20New%20York%20(1992)%201080p%20BluRay.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/home_alone_3.jpg" group-title="🎞️ English Movies ▶ Fantasy", Home Alone 3
-http://10.16.100.206/ftps3/ftps3d5/Movies/English/Home%20Alone%203%20(1997)%201080p%20WEBRip.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_1_the_subversion__manyeo___hindi___english_.jpg" group-title="🎞️ English Movies ▶ Fantasy", The Witch Part 1
 http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Dual%20Audio/The%20Witch%20Part%201%20The%20Subversion%20(Manyeo)%20(2018)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/the_witch_part_2_the_other_one.jpg" group-title="🎞️ English Movies ▶ Fantasy", The Witch Part 2
