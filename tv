@@ -9,20 +9,18 @@ http://87.255.35.150:18238
 http://103.23.206.189/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/asports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", A Sports Maya
 http://103.23.206.189/asports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 1 Maya
-http://103.23.206.189/beinsports1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports2.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
-http://103.23.206.189/beinsports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 3 Maya
-http://103.23.206.189/beinsports3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/Tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴",Tsports 2
-http://103.23.206.189/tsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/PTV.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports Maya
 http://103.23.206.189/ptvsports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/supercricket.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Super Sports Maya
 http://103.23.206.189/supercricket/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/tensports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Ten Sports Maya
 http://103.23.206.189/tensports/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports1.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 1 Maya
+http://103.23.206.189/beinsports1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports2.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 2 Maya
+http://103.23.206.189/beinsports2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/beinsports3.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", bein Sports 3 Maya
+http://103.23.206.189/beinsports3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ptvsports(8).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports 1 ICC
 http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ptvsports(8).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports 2 ICC
@@ -41,8 +39,6 @@ http://10.16.100.202:8080/hls/asports.m3u8
 http://10.16.100.206:8080/hls/asports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/asportshd(2).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", ASports 3 ICC
 http://10.16.100.213:8080/hls/asports.m3u8
-
-
 
 
 
