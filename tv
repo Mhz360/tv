@@ -21,8 +21,24 @@ http://103.23.206.189/ptvsports/index.m3u8
 http://103.23.206.189/supercricket/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/tensports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", Ten Sports Maya
 http://103.23.206.189/tensports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://223.25.254.237/files/PTV.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports ICC
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ptvsports(8).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports 1 ICC
+http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ptvsports(8).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports 2 ICC
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/ptvsports(8).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", PTV Sports 3 ICC
+http://10.16.100.202:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", TSports 1 ICC
+http://10.16.100.206:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", TSports 2 ICC
+http://10.16.100.202:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/tsports.png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", TSports 3 ICC
+http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/asportshd(2).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", ASports 1 ICC
+http://10.16.100.202:8080/hls/asports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/asportshd(2).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", ASports 2 ICC
+http://10.16.100.206:8080/hls/asports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/asportshd(2).png" group-title="Sprots TV Channel ○ 🅻🅸🆅🅴", ASports 3 ICC
+http://10.16.100.213:8080/hls/asports.m3u8
 
 
 
