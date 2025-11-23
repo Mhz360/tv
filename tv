@@ -59,10 +59,19 @@ http://103.23.206.189/peacetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/33/1/nat-geo-wild-logo-png_seeklogo-333045.png" group-title="YouTube Live", Love Nature
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=daqB3i9WYIY
+#EXTINF:-1 tvg-logo="https://sales.wildtv.ca/hubfs/WildTV%20Media%20Centre%20Packages/WildTV+Logos/WTV+-Black-Logo-NowStreamingOn.png" group-title="YouTube Live", Wildlife
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p8wt6jUjgB4
+
+
 #EXTINF:-1 tvg-logo="https://url-shortener.me/3LH" group-title="YouTube Live", Somoy TV live
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cg_ev1tLo1Y
-#EXTINF:-1 tvg-logo="https://url-shortener.me/3LH" group-title="YouTube Live", Chanel 24 live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1200px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="YouTube Live", Chanel 24 live
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6q74dsdRno
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7S2sGx1khd61ztOj1UA5OaK_FxUDTWLUyA&s" group-title="YouTube Live", EKHON TV LIVE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZZ46YI7d4lE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="YouTube Live", Channel i LIVE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6KZPcyQbbM
+
 
 
 
