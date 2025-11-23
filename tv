@@ -2,6 +2,9 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://ln.run/fcyxQ", Nat Geo Wild
+plugin://plugin.video.youtube/play/?video_id=THooYCltViI
+
 #EXTINF:-1 tvg-logo="https://url-shortener.me/3LH", Somoy TV
 plugin://plugin.video.youtube/play/?video_id=cg_ev1tLo1Y
 
