@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg", Live TV
+plugin://plugin.video.youtube/play/?video_id=g41uY_LCNXw
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Working%20Man%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="🎞️ English Movies ▶ Action", A Working Man
