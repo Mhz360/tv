@@ -60,7 +60,7 @@ http://103.23.206.189/peacetv/index.m3u8
 
 #EXTINF:-1 tvg-id="NASATV" tvg-name="NASA TV" tvg-logo="https://images.seeklogo.com/logo-png/33/1/nat-geo-wild-logo-png_seeklogo-333045.png" group-title="YouTube Live", Nat wild
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Bx-jjt0R4wo
-#EXTINF:-1 tvg-id="NASATV" tvg-name="NASA TV" tvg-logo="https://url-shortener.me/3LH" group-title="YouTube Live", Nat wild
+#EXTINF:-1 tvg-id="NASATV" tvg-name="NASA TV" tvg-logo="https://url-shortener.me/3LH" group-title="YouTube Live", Somoy TV live
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cg_ev1tLo1Y
 
 
