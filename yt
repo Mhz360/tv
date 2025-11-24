@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Z_Bangla_logo.jpg" group-title="Indian TV ○ 🅻🅸🆅🅴", Zee Bangla HD
-http://87.255.35.150:18238
+#EXTINF:-1 tvg-logo="https://url-shortener.me/3LH" group-title="YouTube Live", Somoy TV live
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cg_ev1tLo1Y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1200px-Logo_of_Channel_24_%28Bangladesh%29.svg.png" group-title="YouTube Live", Chanel 24 live
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6q74dsdRno
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7S2sGx1khd61ztOj1UA5OaK_FxUDTWLUyA&s" group-title="YouTube Live", EKHON TV LIVE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZZ46YI7d4lE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="YouTube Live", Channel i LIVE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6KZPcyQbbM
