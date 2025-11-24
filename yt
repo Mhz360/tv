@@ -6,5 +6,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cg_ev1
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6q74dsdRno
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7S2sGx1khd61ztOj1UA5OaK_FxUDTWLUyA&s" group-title="YouTube Live", EKHON TV LIVE
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZZ46YI7d4lE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="YouTube Live", Channel i LIVE
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcBbq3L9-tX5bCT3fkASm5YGQYJDp5TnskpQ5I4dgSmq76v8vebYCzW824q-R4ICdBlKo1rfuopZbYjU7iquwIiVL3prlw89vJUWe0yeyz_mxfNrcEahGXFs3QcmcTuIsAsaGgCeGNXlF9/s1600/independent-television.jpg" group-title="YouTube Live", Channel i LIVE
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6KZPcyQbbM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="YouTube Live", Independent TV LIVE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=I_UusodwoBc
