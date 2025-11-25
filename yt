@@ -24,6 +24,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6KZPc
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="YouTube Live ▶ NEWS INT", Al Jazeera English
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gCNeDWCI0vo
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png" group-title="YouTube Live ▶ NEWS INT", Sky News
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YDvsBbKfLPA
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/d2/d0/c6/d2d0c69e6ec56ef717b9bbc23fc8e2fc.jpg" group-title="YouTube Live ▶ Cartoon", Tom N Jerry
