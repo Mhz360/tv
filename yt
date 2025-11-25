@@ -29,6 +29,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gCNeDW
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YDvsBbKfLPA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/946px-CNA_new_logo.svg.png" group-title="YouTube Live ▶ NEWS INT", CNA 24/7
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XWq5kBlakcQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="YouTube Live ▶ NEWS INT", DW News
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LuKwFajn37U
 
 
 
