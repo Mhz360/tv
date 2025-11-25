@@ -17,3 +17,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZZ46YI
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6KZPcyQbbM
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcBbq3L9-tX5bCT3fkASm5YGQYJDp5TnskpQ5I4dgSmq76v8vebYCzW824q-R4ICdBlKo1rfuopZbYjU7iquwIiVL3prlw89vJUWe0yeyz_mxfNrcEahGXFs3QcmcTuIsAsaGgCeGNXlF9/s1600/independent-television.jpg" group-title="YouTube Live", Independent TV LIVE
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=I_UusodwoBc
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/d2/d0/c6/d2d0c69e6ec56ef717b9bbc23fc8e2fc.jpg" group-title="YouTube Live", BBC Earth
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rEKifG2XUZg
