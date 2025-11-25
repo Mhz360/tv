@@ -19,5 +19,5 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T6KZPc
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=I_UusodwoBc
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/d2/d0/c6/d2d0c69e6ec56ef717b9bbc23fc8e2fc.jpg" group-title="YouTube Live", BBC Earth
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/d2/d0/c6/d2d0c69e6ec56ef717b9bbc23fc8e2fc.jpg" group-title="YouTube Live", Tom N Jerry
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rEKifG2XUZg
