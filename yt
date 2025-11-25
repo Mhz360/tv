@@ -2,9 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/0/0f/BBC_Earth_channel.png" group-title="YouTube Live ▶ Documentary", BBC Earth
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YfJ1jX-xF_4
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nat-geo-wild7342.logowik.com.webp" group-title="YouTube Live ▶ Documentary", National Geographic
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FqQJmDiW0xs
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/15143150/file/original-81a77b7d4f8e011aeba5988537121593.jpg" group-title="YouTube Live ▶ Documentary", Animal Planet
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=H3JYmEYC1pk
-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/571/526/png-transparent-animal-planet-television-channel-discovery-channel-logo-science-science-television-text-logo.png" group-title="YouTube Live ▶ Documentary", Discovery Relaxation
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6iQCt1X8jZU
 
 
 
