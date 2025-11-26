@@ -57,11 +57,6 @@ http://103.23.206.189/peacetv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/33/1/nat-geo-wild-logo-png_seeklogo-333045.png" group-title="YouTube Live", Love Nature
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=daqB3i9WYIY
-#EXTINF:-1 tvg-logo="https://sales.wildtv.ca/hubfs/WildTV%20Media%20Centre%20Packages/WildTV+Logos/WTV+-Black-Logo-NowStreamingOn.png" group-title="YouTube Live", Wildlife
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p8wt6jUjgB4
-
 
 
 
