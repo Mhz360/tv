@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-http-referrer="https://onezoo.net",Zee Bangla (1080p)
+#EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://i.imgur.com/zTGTWa8.png" group-title="Entertainment" http-referrer="https://onezoo.net",Zee Bangla (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 http://87.255.35.150:18238
