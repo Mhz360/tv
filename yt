@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+http-referrer="https://onezoo.net",Zee Bangla (1080p)
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
+http://87.255.35.150:18238
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/0/0f/BBC_Earth_channel.png" group-title="YouTube Live ▶ Documentary", BBC Earth
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YfJ1jX-xF_4
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nat-geo-wild7342.logowik.com.webp" group-title="YouTube Live ▶ Documentary", National Geographic
