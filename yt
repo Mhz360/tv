@@ -7,6 +7,10 @@
 http://87.255.35.150:18238
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.fonzip.com/public/towardseternity/img/donation/blob-1710336473119.png" tvg-name="" group-title="Towards Eternity",মুসলিম হওয়ার গল্প
+plugin://plugin.video.youtube/?path=/root/playlist&action=play_all&playlist_id=PLuzIsIPzt7fki4XK9PogjEWkTHWVBCRjE
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/0/0f/BBC_Earth_channel.png" group-title="YouTube Live ▶ Documentary", BBC Earth
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YfJ1jX-xF_4
