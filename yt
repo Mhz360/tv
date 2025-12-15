@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="890a1a92-0602-4c2d-93ca-a2c43e7aec54" tvg-name="Zee Bangla International" tvg-logo="https://s3.aynaott.com/storage/0cb865748deefd42e69fd9a221cf38ee" group-title="Indian Bangla",Zee Bangla International
+https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1765807272&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e86e43721d9ceda24ae1ce8c8539ee73
 
 #EXTINF:-1 tvg-id="ZeeBangla.in@SD" tvg-logo="https://images.seeklogo.com/logo-png/63/2/zee-bangla-logo-png_seeklogo-630697.png" group-title="Entertainment" http-referrer="https://onezoo.net",Zee Bangla (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
