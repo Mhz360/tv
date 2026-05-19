@@ -754,20 +754,16 @@ http://10.16.100.214/iccftps14/iccftps14sasd4/Tv%20Show/Serials%20(Documentaries
 
 
 
-#EXTINF:-1 tvg-id=""http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episodes 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episode 1
 http://10.16.100.206/ftps3/ftps3d7/TV%20Shows/English/Rise%20of%20Empires%20Ottoman%20Season%2001%20(2020)%20Completed/Rise%20of%20Empires%20Ottoman%20S01E01.mp4
-
-#EXTINF:-1 tvg-id=""http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episodes 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episode 2
 http://10.16.100.206/ftps3/ftps3d7/TV%20Shows/English/Rise%20of%20Empires%20Ottoman%20Season%2001%20(2020)%20Completed/Rise%20of%20Empires%20Ottoman%20S01E02.mp4
-
-#EXTINF:-1 tvg-id=""http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episodes 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episode 3
 http://10.16.100.206/ftps3/ftps3d7/TV%20Shows/English/Rise%20of%20Empires%20Ottoman%20Season%2001%20(2020)%20Completed/Rise%20of%20Empires%20Ottoman%20S01E03.mp4
-
-#EXTINF:-1 tvg-id=""http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episodes 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episode 4
 http://10.16.100.206/ftps3/ftps3d7/TV%20Shows/English/Rise%20of%20Empires%20Ottoman%20Season%2001%20(2020)%20Completed/Rise%20of%20Empires%20Ottoman%20S01E04.mp4
-
-#EXTINF:-1 tvg-id=""http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episodes 5
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episode 5
 http://10.16.100.206/ftps3/ftps3d7/TV%20Shows/English/Rise%20of%20Empires%20Ottoman%20Season%2001%20(2020)%20Completed/Rise%20of%20Empires%20Ottoman%20S01E05.mp4
-
-#EXTINF:-1 tvg-id=""http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episodes 6
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/rise_of_empires_ottoman_season_01__2020__completed.jpg" group-title="🎞️ Rise of Ottomans", Episode 6
 http://10.16.100.206/ftps3/ftps3d7/TV%20Shows/English/Rise%20of%20Empires%20Ottoman%20Season%2001%20(2020)%20Completed/Rise%20of%20Empires%20Ottoman%20S01E06.mp4
+
