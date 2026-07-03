@@ -42,6 +42,13 @@ http://10.16.100.212/iccftps12/iccftps12sasd3/Movies/Dual%20Audio/Blade%20of%20F
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/saving_private_ryan.jpg" group-title="🎞️ English Movies ▶ Action", Saving Private Ryan
 http://10.16.100.206/ftps3/ftps3d3/Movies/English/Saving%20Private%20Ryan%20(1998)%201080p%20BrRip.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/masters_of_the_universe.jpg" group-title="🎞️ English Movies ▶ Action", Masters of the Universe
+http://10.16.100.212/iccftps12/iccftps12sasd3/Movies/English/Masters%20Of%20The%20Universe%20(2026)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/predator_badlands.jpg" group-title="🎞️ English Movies ▶ Action", Predator Badlands
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/English/Predator%20Badlands%20(2025)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/transformers__hindi___english_.jpg" group-title="🎞️ English Movies ▶ Action", Transformers (2007)
+http://10.16.100.206/ftps3/ftps3d6/Movies/Dual%20Audio/Transformers%20(2007)%20(Hindi%20&%20English)%201080p%20BluRay.mp4
+
 
 
 
@@ -190,6 +197,13 @@ http://172.31.31.31/Data/movies/animation/2011-2020/Despicable%20Me%203%20(2017)
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/despicable_me_4.jpg" group-title="🎞️ Animation Movies", Despicable Me 4
 http://10.16.100.202/ftps10/iccftps10sasd8/Movies/Animated/Despicable%20Me%204%20(2024)%201080p%20WEBRip.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/goat.jpg" group-title="🎞️ Animation Movies", GOAT
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/Animated/GOAT%20(2026)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/lilo___stitch__2025_.jpg" group-title="🎞️ Animation Movies", Lilo & Stitch
+http://10.16.100.214/iccftps14/iccftps14sasd3/Movies/English/Lilo%20and%20Stitch%20(2025)%201080p%20WEBRip.mp4
+
+
+
 
 
 
@@ -241,7 +255,8 @@ http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/Hindi/My%20Name%20Is%20Kha
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="🎞️ Hindi Movies", Chennai Express
 http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%201080p%20BluRay.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/homebound__2025_.jpg" group-title="🎞️ Hindi Movies", HomeBound
+http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/Hindi/Homebound%20(2025)%201080p%20WEBDL.mp4
 
 
 
