@@ -213,7 +213,8 @@ http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/Dual%20Audio/Swapped%20(202
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/chennai_express.jpg" group-title="🎞️ Hindi Movies", Chennai Express
+http://10.16.100.206/ftps3/ftps3d5/Movies/Hindi/Chennai%20Express%20(2013)%201080p%20BluRay.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/sitaare_zameen_par__4k_.jpg" group-title="🎞️ Hindi Movies", Sitaare Zameen Par
 http://10.16.100.213/iccftps13/iccftps13sasd6/Movies/Hindi/Sitaare%20Zameen%20Par%20(2025)%20720p%20WEBRip.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://10.16.100.244/files/speed_Bridge%20to%20Terabithia%202007.jpg" group-title="🎞️ Hindi Movies", Bridge to Terabithia (2007) Dual Audio
